@@ -1,0 +1,2629 @@
+
+<!--
+\theoremstyle{definition}
+Explain why we don't say "the theorem is true" in the induction step.
+
+parameter non-bold in bold definition
+
+"denoted A" avoiding "denoted by" change to "written"
+
+"fundamental theorem of calculus" - Without capitalization, this is a value
+   statement rather than a title and therefore does not specify a particular
+   theorem.
+Comparison with numbered items.
+Comparison of titled theorems with and without names.
+%  latter, capitalization groups "Prime Number" as an adjective for "Theorem",
+%  but "prime number theorem" uses "prime" as an adjective for "number theorem".
+exceptions for functions: Taylor series, Riemann zeta function.
+Another example: "Legendre's Three Squares Theorem"
+
+Daniel Daigle:
+"Let" for definition; "suppose" for constraint.
+
+Axiom of Choice (capitalization)
+   As for "Fermat's little theorem", it just looks like a denigrating
+   value judgement.
+Other insults include the mean value theorem, the rank reduction lemma, and
+the gross national product.
+
+You raise an interesting question.  In the sense that what is specified is
+a "problem" in the subject of "linear programming", one would think that the
+term should be hyphenated.  However, no one does that, so we need to think
+about how the lack of a hyphen can fit the principles.  There are various
+types of optimization problems: linear programming, quadratic programming,
+even convex programming.  In that sense, optimization problems are
+"programming problem", and here we speak of the linear kind, so this viewpoint
+points to "linear programming problem".  It is reassuring to have a way to
+say that the common practice is correct.  Think about the contrast between
+the roles of the words in "linear programming problem" and
+"polynomial-time algorithm".
+
+This has bugged me until I realized this morning that this is the same language
+problem with which
+Abraham Lincoln struggled in his Gettysburg address.  The English language
+desperately needs a super preposition
+embodying all three prepositions, "of", "by" and "for".  I guess Lincoln
+essentially used this
+to define democracy.  Perhaps the title of our paper should have been
+"Interval Democracy" (this is not
+a serious suggestion) since we define representation of intervals, by
+intervals, and for intervals.
+
+To Velleman:
+The problem is that we don't have an adjectival form of "Cauchy".
+Using a (proper) noun as a predicate adjective is a jargonistic abuse of
+language.  We don't say that a group is Abel or a sequence is Sturm or
+a graph is Euler.  Attaching the name to a noun is the linguistic trick to
+allow it to function as an adjective, as in "sex education".  This is why
+"is a Cauchy sequence" is less objectionable.
+
+Yes, after thinking about it for many years I believe that it is generally best
+to be consistent in treating equations as noun units.  (I make an exception for
+the reading of "Let x=...".)  Equations as clauses get into too much trouble.
+Usually if one wants to emphasize the verb it is better to use words, as in
+"Recall that c_0 and m_0 both equal 1".  I agree that here the verb "Recall"
+make the lack of "that" a bit awkward.  Hence I will accept "that" in this
+case but still think that the full sentence is better (partly for consistency).
+
+> Dear Ira,
+> 
+> Thanks for your message about the use of passive voice.
+> I have looked at the links you mentioned.
+> 
+> Pullum's post seems to focus mostly on passive constructions where the
+> recipient of action becomes the subject, though he indicates that this is
+> not exhaustive.  In this sense I see your point that "It is sufficient to
+> show" is not passive voice.  (I think "passive voice" is eloquent terminology
+> and think his choice to eschew it is silly, given the level at which he
+> claims to be writing).
+> 
+> On the other hand, I still prefer "It suffices to show" as more direct and
+> active writing, whether one technically calls the other "passive voice" or
+not.
+> 
+> I will revisit how I phrase this in order to lessen reliance on the term
+> "passive voice" and focus on encouraging more direct writing.
+
+See /mathlet/brook for a complaint about sentence involving "x,y" and 
+"respectively" in the "Lists of size 2" item.
+
+
+Suppose for a contradiction.
+converse-negative proposition
+counter example
+we can know                      
+pendent vs pendant
+"Pendant" is a noun for a piece of jewelry;
+> "pendent" is the adjective.
+> Hence we should say "pendent vertex";
+> but we must be sure not to speak of "a pendent".
+But, dictionaries list each spelling as an alternative for the other usage.
+
+If P is a poset which is not an antichain
+
+Don't use "there is an x".
+
+
+To Xingzhi Zhan on "vertex cut" vs. "cut-vertex":
+  Maybe it is clearer that "vertex" or "edge" is modifying "cut"
+in "vertex cut" and "edge cut" than it is that "cut" is modfying
+the others in "cut vertex" or "cut edge".
+  Maybe the use of the hyphen in one ordering of the words and not in
+the other ("vertex cut" vs. "cut-vertex") makes it clearer that the
+two phrasings have different meanings.  (This could be helpful to
+native speakers of other languages.)
+  Maybe it is something in the rhythm of the words that suggests emphasizing
+that the term is a unit when the "cut" comes first.
+  Maybe it is because "vertex" and "edge" are clearly nouns being used as
+adjectives, but "cut" can be used as a verb.
+
+serial comma example: "by (1), Lemma 2 and X\ne\nul, A=B."
+More: Since A is suitable, B and C, we can"
+Also "Chef X enjoys cooking her family and her dog".
+Also GRAph Searching, Theory and Applications
+Also "Appel, Haken and J. Koch"
+"U. Schauz, Mr. Paint and Mrs. Correct"
+"has two components, a path and a broom"
+"without A, a B in the form of C or D"
+without a giant wave of money, a Republican gift in the form of a serious gaffe
+or a crisis of historical proportion
+automata, combinatorics on words and formal languages
+Since A, B and C are valid.
+distinguish between conclusions and additional hypotheses in lists:
+   "Since A, B, and C does something"
+Douglas B. West, Zhejiang Normal University and University of Illinois
+Consider small planar graphs, K_5 and K_{3,3}
+
+when one of two cases is very short, don't distinguish subcases.
+
+prove a statement vs show a statement
+
+Finally attach = "at long last, attach"
+
+What would the MAA do with "Pike's Peak"?  Every
+   sensible person know that this should be capitalized; it is a proper noun.
+   The grammar is no different for "Pick's Theorem".  In Phoenix there is
+   South Mountain; no one would call it south mountain.
+
+I acknowledge that "Since" has a temporal meaning, but "as" has too many
+other common uses.  "As I recall", "as well as", "as snug as a bug in a rug",
+"as in the next result", etc.  There is also a mathematical usage, "as x->0",
+referring to limiting behavior.  In mathematical discourse, "since" is a short 
+form of "because" and rarely has temporal meaning.  Furthermore, a temporal 
+context can be indicated clearly by putting the time immediately after "since",
+as in "Since 1958, when I was born, there has never".  Therefore, I prohibit 
+"as" in the implicative sense.
+
+
+Hierarchical comma
+Avoid run-on sentences (one idea per sentence)
+
+comma separator: "the color of the stone on v,c\in{0,1}"
+
+include vs contained (singleton)
+
+> We will abuse this notation
+> to a certain extent: if $A$ is a subgraph
+> we write $\left\Vert A,B\right\Vert $ for $\left\Vert V(A),B\right\Vert $,
+> and if $\mathcal A$ is a set of disjoint subgraphs we write $\left\Vert
+> \mathcal A,B\right\Vert $ for $\left\Vert \bigcup_{H\in \mathcal
+> A}V(H),B\right\Vert $.
+
+Good question for the Grammar.  Here I would not capitalize; it is like
+a compound sentence using a semicolon.  The label situation is like the
+start of a theorem statement.
+
+Claim 1:
+Theorem 2:
+Case 3:
+Hint:
+Comment:
+
+clarify that "girth" is a parameter of a graph, not a cycle; a cycle in a
+  graph has a length, not a girth.  Similarly, a vertex in a graph has only
+  one degree, not one degree for each incident edge.  Also, "has girth", not
+  "has a girth".
+
+
+Hartke: Another issue that I've noticed students have difficulty with is
+singular/plural issues, particularly when talking about collections.  This is
+somewhat addressed in #59 with "every", but the issue is larger than that.  For
+instance, consider: "Let $S$ be the set of graphs that have an edge-clique cover
+equal to the number of vertices."  There's a lot of problems with number in this
+sentence.  "that" is plural ("graphs that have"), but then we have "*an*
+edge-clique covering"-is there just one covering for all the graphs?  It's not
+even clear to me what the appropriate solution is here, but this issue has
+arisen frequently.
+
+Date: Fri, 30 Sep 2016 11:46:14 -0400
+From: Kira Hamman <khh11@psu.edu>
+I knew a woman in graduate school, a non-native English speaker, who said
+that the way she remembered when to use "many" and when to use "much" is
+that "many" refers to countable sets (people, books, miles) and "much"
+refers to uncountable sets (sand, water, time). She was using those words
+in a non-technical sense, of course, but I always thought it was a clever
+way to frame that.
+   I just asked a colleague in English about this and it turns out that they
+call this distinction "countable" versus "non-countable." Countable in
+English seems to mean pretty much the same thing it does in math, except of
+course that they are usually in practice talking about finite sets.
+Non-countable, though, refers to collective nouns. It seems, upon
+reflection, that such nouns do not even meaningfully *have* a property of
+quantity - you can have "cups of water" or "molecules of water," but
+"water" itself does not have quantity. So, in some sense, I guess this is
+describing a variant on the mathematically uncountable, but it's not the
+same. "Fewer" and "less" have the same distinction, as do "number" and
+"amount."
+
+
+
+%    similarly, "let a= and b=" doesn't need second "let" when no English verb
+vertex vs edge terminology.  But, second "let" needs comma.
+minimizing use of "of".  "of" vs "on", "with", "for"; avoid repeated "of"
+
+
+Do not insert commas around "if and only if" in mathematics.
+"if and only if" is a logical connector, not a separator.
+(Also not "if, and only if,")
+
+ Your grammar doesn't address the issue of commas in iff statements. I think
+ "... if, and only if, ..." is the way it should be. Yet others believe that,
+ in a mathematical context, it should be "... if and only if ..." I couldn't
+ imagine using this phrase in ordinary English without commas. Do you have an
+ opinion on this burning question? - Craig Larson
+
+Little: ambiguity of G-e vs G-{u,v}, saved by G-uv.
+scope of negation: "not orthogonal to every cycle"
+      "not contain A or B"
+need for "that" due to "and that"
+
+"whence" -> "from which"
+avoid "there is an S"
+graph "have" vertices and edges, "contain" subgraphs
+"Choose \nul\le S\esub X minimal"
+
+such/so You are describing how the action was accomplished rather than the
+property that the object has.
+
+"by definition", like "by induction" or "by contradiction", does not need "the"
+   since the term refers to a process; contrast with "by the pigeonhole
+   principle"
+"Do not" vs "fail to"
+above/below as adverbs
+direction of inequalities
+small (object) vs. least (number, value)
+some or all a_i's -> some or all values of i.
+each v_i
+analogue vs analog
+example of inequality used as a number: "at least a\ge b"
+"we have that" with formulas
+"Let ...  Then" changing to "For ...,"
+no ", hence"; i.e., hence is not a conjunction
+"maximum" and "minimum" with "number", otherwise largest, most, etc.
+hyphen for notation modifying a term (ex: "straight line graph")
+(additional example: "He cited a third party application.")
+eliminate "proven" (with "have proven" or "was proven" or "proven theorem")
+Don't use "as a rule"
+Note vs. notice (less distraction) avoid "Notice"
+
+Parallel structures (Neudauer), or groupings.
+| And also a use of â€œeitherâ€ and getting the verb in the right place.
+| As in, â€œis either -blank- or . . .â€ or â€œeither is -blank- or . . . â€œ
+|
+| To clarify, this situation was unclear with there was an â€œandâ€
+| after the â€œorâ€.  As in
+| 
+| either is -blank- or -blank2- and -blank3-
+
+connectivity vs. connectedness
+Induction: "assume the theorem holds for n-1"
+If to whether
+Avoid "as" and "for" as words to introduce reasons
+Use "as" for "like", not "since"  [caveat on "since": purists say it has only
+   temporal meaning]
+"For" vs "For all" when followed by inequality.
+"hence/thus" vs "so" (intro vs conjunction; no comma before hence/thus)
+exception to commas before conjunctions do to larger scope comma
+No commas after "such that" or "whenever"
+"with" vs. "having"
+"so that", "such that", "for which"
+"imply the bound" vs "imply that the bound"
+"assigns a color c(v) so that" - so that applies to the overall assignment,
+   not the individual color
+"et al." not end of sentence
+Rewrite to avoid "There are"
+Section.Item numbering.
+
+Cycle vs. circuit
+numbering of items
+"there is a" &rArr; "there exists", but no "exists an"
+"the function f(x)=x^2" &rArr; "the function f defined by"
+Inequalities: bound on new in terms of old
+
+"much fewer" - This one is subtle.  "Fewer" refers to individual items, while
+"much" is used with abstract plurals.  For example, we would say "much less
+water" and "many fewer papers", not "much fewer water" or
+"much less papers".
+
+Wikipedia:
+In prescriptive grammar fewer is the prescribed comparative to be used in
+relation to grammatically plural, discretely quantifiable nouns, i.e., count
+nouns. The comparative less, it is argued, should be used when speaking of a
+grammatically singular noun (including mass nouns). Descriptive grammarians,
+however, are only concerned with the extent that this distinction applies in
+actual human usage.
+
+The prescriptivist distinction can be seen in this example: "There is less flour
+in this canister", but "There are fewer cups (grains, pounds, bags, etc.) of
+flour in this canister", as flour is a mass noun unless it is measured in a unit
+(in this case cups). However, in the case of singular but discretely
+quantifiable nouns as in "one less cup of flour in this canister", the adjective
+"less" should be used, the prescriptivists argue.
+
+Use of display (Igor Pak):
+  You have too many inline formulas, one even in the abstract.  The rule
+  of thumb is: if a formula is longer than 1/3 of a line, or has a
+  fraction, or because of TeX formatting doesn't fit into one line -
+  make it a real $$formula$$  For example, a binomial coeff is fine, but
+  its definition is certainly not and should be a real formula.
+the definition of a binomial coefficient is a reminder in
+passing an should not be displayed.  When a short formula that does not need
+display for other reasons has a line break due to tex, the choice should be
+to rewrite the sentence rather than to display the formula.  Displaying all
+formulas having fractions is tremendous overkill and is not in the spirit of
+smooth communication.  I find papers with many displayed formulas wasteful of
+space and more difficult (or at least less appealing) to read.  Certainly the
+abstract should try to avoid displays.
+
+compare punctuation inside as "why capitalize `Lattice Theory'?
+
+Non-native speakers:
+solve problems, prove conjectures
+"condition of" -> "condition for" (like bound of)
+"one unique"
+
+Igor: for foreign speakers, Standard examples:  then vs than, like vs alike vs
+   unlike, imply vs infer, integral vs integer, and even i.e. vs e.g.
+"pass" and "pass by" vs "pass through"
+"compliment" vs. "complement"
+"Particularly" -> "in particular"
+"one partite"
+"the followings" and abstract nouns in general
+"notations" vs. "notation" [other examples: evidence]
+   "some notation", "additional evidence"
+"historic" vs. "historical" -logical, analytic, numerical
+"can suppose" -> "may suppose"
+"d(v) many neighbors"; "fewer than x many 4-cycles"
+Don't put commas to separate a subject from its verb.  That is,
+"decompositions, can" and "graph, are studied" are wrong.
+"or shortly"
+"point" vs "point to" vs "point out"
+"Graphs G and H" vs "The graphs G and H"
+Space before open-parenthesis in sentences
+
+
+
+
+We:
+The single-author situation is not a problem, due to convention of the "royal"
+we, but also supported by the notion that the reader is participating in the
+proof along with the author.  
+   Nevetheless, too much use of "we" is stilted and unpleasant.  To avoid this,
+use active verbs or an implied imperatives where possible to write sentences
+without explicit pronouns.  For example, "Define" instead of "We define", etc.
+Similarly, "Constructing the connected 2-factor implies that G is Hamiltonian."
+
+
+Discussion to incorporate:
+"Conjunction" means combining two sentences into one sentence.  It is thus
+mathematically improper to start a sentence with a conjunction.  You would not
+start break a mathematical formula before a \wedge, and similarly it is
+illogical to break a sentence before "And".  I would be extremely surprised to
+find people who would consider "Jack fell down.  And broke his crown" correct
+except in poetic writing.  I think your example here is indefensible, especially
+in the sense that writing of mathematics needs to be more formal because its
+concepts are more abstract, without clues from the physical universe to help the
+reader interpret what is meant.
+
+There are two senses of "Then": the temporal sense and the implicative sense.
+In the temporal sense, you are correct that "Then" is an adverb and can start a
+sentence.  In the implicative sense, "then" is a conjunction in logical
+statements just like "\wedge", and for that reason it should not start a
+sentence.  I would guess that the "several other people" you have consulted are
+mathematicians.  Many mathematicians consider "Let ...  Then" to be a matter of
+taste because it is a matter of habit.  In fact, it is bad writing that results
+from laziness.  "Then" in the implicative sense should be treated as a
+conjunction, and conjunctions should not start sentences.  The dictionary page
+you quote shows only the adverbial sense of then, indicated by the superscript
+"1".  It does not give an example with the conjunctive implicative sense
+starting a sentence.  Presumably there is a second definition of "then" with
+superscript "2" on the next page (as in the earlier options for "them" on the
+given page).  Thus I conclude that the evidence you have provided supports my
+position, not yours.  
+
+The prevalence of sentences starting with "Then" in your paper does make reading
+the proofs less pleasant and more difficult.  It means that you have separated
+the conclusion from the hypothesis, leaving the reader the responsibility of
+putting them back together.  This slows the reader down and thus discourages the
+reader from reading the proofs.
+
+It is unassailable that "G-G'" is ambiguous and hence should not be used.
+Diestel has an entire book in which to adopt whatever conventions he wants;
+readers who use his book long enough will become accustomed to his notation.  In
+the shorter context of a research article, one should wherever possible use
+unambiguous notation that cannot confuse a reader who does not take the trouble
+to look it up.  I have many, many disagreements with Diestel's notation and
+style, which I believe reduces readability in many ways.  The pages you provided
+are full of examples of this.  They show me the choices that Diestel has made,
+but they does not convince me that his choices are correct or, more to the
+point, beneficial to readers.
+
+When separating points of a proof as lemmas, the structure that is easier to
+follow is to state at the outset what is going to be proved without formally
+starting the proof environment, then to give the lemmas with their proof, and
+then prove the theorem within its own proof environment using the lemmas.  Of
+course, a proof may have enormous complexity, but it is always possible to write
+the proof without using nested proof environments.  Avoiding nested proof
+environments may take more effort on the part of the authors but is friendlier
+to the reader.
+One would not give the proof of the Graph Minor Theorem by stating the theorem,
+starting a proof environment, and proceeding with 500 pages of lemmas with their
+own proof environments nested within it.  That is an extreme case, but the
+principle is the same.
+
+You assert that some authors define the complement of a graph to mean something
+other than the definition that all textbooks in graph theory give to the term.
+I find it rather sad that they were not required to change this before
+publication.  That is worse than a matter of grammar; it is damaging to the
+discipline.  Meanwhile, the point of my comment about "complement" was the level
+of the terms being defined.  "Complement" is more elementary than "complete
+bipartite graph"; my point is that if "complete bipartite graph" is not defined,
+then it does not make sense to define "complement".  A reader who is assumed to
+know what "complete bipartite graph" means would at best find the definition of
+"complement" superfluous.  Irresponsibility of some authors in mis-defining
+"complement" does not change that conclusion.
+
+I acknowledge that many mathematicians use "|" for "such that".  It is overused
+notation (used also for restriction, cardinality, and divisibility).  The colon
+has fewer conflicting usages, and the meaning "such that" rather closely
+approximates the meaning of this punctuation in written English ("|" has no such
+role in English.  These reasons are the evidence that the colon is simply
+better.  I am not claiming that "|" is not also commonly used, only that ":" is
+better.
+
+I stand on the opinions I have expressed about the ways in which the writing of
+your paper can be improved.  I give reasons to support these opinions here and
+on my grammar page.  My aim is to improve the presentation of what is published,
+making it easier to read and understand what has been written.  Nevertheless,
+the mathematics is paramount.  The referees, who are not native speakers of
+English, find the mathematics publishable.  If most interested readers will be
+able to figure out eventually what is meant by less than optimal writing of
+English that authors refuse to change, then I will not override the mathematical
+decision by a grammatical one.
+
+*****
+If should be followed by "then" in implications, in contrast to familiar 
+English where the context is known.  Compare
+"If G is bipartite, G has no odd cycle, and G has chromatic number 2."
+"If G is bipartite, G has no cycle, and G has bounded degree."
+
+Avoid if/then in definition
+Ethan Bloch:
+Suggested Revision: If $X$ is a regular CW complex, then the face poset of $X$,
+denoted $P(X)$, is the poset that has one element for each cell of $X$, where
+the order relation is given by $\sigma < \tau$ if $\sigma$ is in the boundary of
+$
+\tau$, for cells $\sigma$ and $\tau$ of $X$. The poset $P(X)$ is ranked, where
+the rank of a cell in $X$ is its dimension.
+Actual Revision: Let $X$ be a regular CW complex. The face poset of $X$,
+denoted $P(X)$, is the poset that has one element for each cell of $X$, where
+the order relation is given by $\sigma < \tau$ if $\sigma$ is in the boundary of
+$
+\tau$, for cells $\sigma$ and $\tau$ of $X$. The poset $P(X)$ is ranked, where
+the rank of a cell in $X$ is its dimension.
+The suggested change would not work, for the following reason. If we write a
+sentence of the form â€œIf P, then Q,â€ it is not correct to assume that either P
+or Q is
+true, but only that there is a certain relationship between P and Q. That is, if
+one
+writes a sentence â€œIf P, then Q,â€ one cannot assume in the subsequent sentences
+that P is true. In particular, in the suggested revision, the first sentence is
+â€œIf $X$
+is a regular CW complex, then ...â€ It is not logically correct to assume that
+the
+symbol $X$ is defined after the end of that sentence, because the definition of
+$X
+$ is the P in a sentence of the form â€œIf P, then Q.â€ That causes a problem with
+the suggested revision, because the symbol $X$ is in fact used in the
+subsequent sentence. Fortunately, the actual revision, which simply drops the
+word â€œThenâ€ at the start of the second sentence and leave everything else
+unchanged, solves the grammatical problem you identified and yet does not
+cause any logical problems.
+In general, I find the problem of defining symbols as the P in a sentence of the
+form â€œIf P, then Q,â€ and then using that symbol in a subsequent sentence, to be
+very widespread among students; it is something that I work very hard to combat.
+A similar problem occurs when a symbol is defined inside a quantifier, for
+example â€œWe deduce that $n^2$ is even for all even numbers $n$.â€ The number
+$n$ is not defined outside that sentence (because it is a dummy variable), and
+cannot be used in subsequent sentences (unless defined properly, via â€œLet $n$
+be an even numberâ€). The basic principle is that every symbol should be defined
+before it is used, and one has to look carefully at whether each definition
+exists
+only for the duration of that sentence, or persists afterwards. I have seen
+students make serious mistakes in proofs because they used symbols that they
+thought were defined but were in fact not. That type of problem appears
+regularly when students learn epsilon-delta proofs.
+A particular case of this problem occurs when the sentence â€œIf P, then Qâ€ is the
+statement of a theorem that needs to be proved. If a theorem says â€œIf P, then
+Q,â€
+then the first sentence of a direct proof needs to be â€œSuppose P.â€ Many students
+fail to say that. If, grammar aside, a theorem says â€œSuppose P. Then Q,â€ then
+the proof should not start with â€œSuppose P,â€ because P was already assumed in
+the statement of the theorem. I now understand the grammatical problem
+caused by starting a sentence with â€œThen,â€ but removing it should be done in a
+way that does not cause a symbol that is used subsequently to be undefined.
+
+
+!-->
+
+<!DOCTYPE html>
+   <html lang='en'>
+
+   <head>
+      <title>The Grammar According to West</title>
+      <meta charset='utf-8'>
+      <style>
+         @font-face {
+            font-family: "jetbrains";
+            src: url("JetBrainsMono-Regular.ttf");
+         }
+         body{
+            background-color: #3e3e42;
+            color: white;
+         }
+         .font{
+            font-family: jetbrains;
+         }
+
+         i{
+            font-weight: bold;
+            color: #007acc;
+         }
+
+         a{
+            text-decoration: none;
+            /* color: #ffc107; */
+         }
+         a:visited{
+            text-decoration: none;
+         }
+         .link{
+            color: #ffc107;
+         }
+      </style>
+      <script>
+      </script>
+   </head>
+
+   <body class = "font">
+    <h1><a class="link" href="https://dwest.web.illinois.edu/grammar.html">The Grammar According to West</a></h1>
+    
+    <h3> by Douglas B. West</h3>
+    
+    <h2>Summary</h2>
+    <p>
+        I have been accumulating observations about writing mathematics for many years.
+        These conclusions arose both from writing textbooks and from noting writing
+        errors commonly made by my thesis students and in papers submitted to journals.
+    
+    <p>
+        My first objective was to train my students, thereby reducing the time needed
+        to edit their theses. As the document grew, I made it publicly available in
+        the hope that others may find it useful. I have received a broad range of
+        responses, mostly positive. If you don't find it useful (or if you object to
+        it on principle), then please ignore it. I hope to make some writers of
+        mathematics (especially students and non-native speakers of English) aware of
+        issues they may not have considered; small changes can produce mathematical
+        writing that is easier to read by wider audiences.
+    
+    <p>
+        After an <a class="link" href="#introduction">introductory explanation</a> of why care in
+        writing mathematics is needed, I discuss
+        (1) <a class="link" href="#mathusage">mathematical style</a>,
+        (2) <a class="link" href="#notation">notation and terminology</a>,
+        (3) <a class="link" href="#English">punctuation and English grammar</a> as used in
+        mathematical writing, and
+        (4) <a class="link" href="#non-native">English usage for non-native speakers</a>.
+        Some points are minor distinctions, but even these make mathematical writing
+        clearer when used consistently. My intent is not to make writing rigid, but
+        rather to make it transparent to avoid distracting the reader by ambiguities or
+        awkwardness in the flow of the narrative.
+    
+    <p>
+        I note that a number of other articles and even books have been published on
+        writing mathematics; see some of these <a class="link" href="#references">here</a>.
+        I list these just to make alternative viewpoints available, without judgment
+        pro or con. One contrast to note is that my list below focuses on relatively
+        specific items. I have not yet included much discussion of the general
+        structure of an article; some of these references discuss that.
+    
+    <p>
+        <b><a name="index">Index of specific items</a></b>
+    <p>
+    <table width="100%">
+        <tr>
+            <td valign="top">
+                <sub>
+                    <b>Mathematical style</b>
+                    <br><a class="link" href="#conclusion">Abstract/Intro/Conclusion</a>
+                    <br><a class="link" href="#definitions">syntax for definitions</a>
+                    <br><a class="link" href="#where">"where" in definitions</a>
+                    <br><a class="link" href="#dblduty">"double-duty" definitions</a>
+                    <br><a class="link" href="#G=V,E">"Let <i>G=(V,E)</i> be a graph"</a>
+                    <br><a class="link" href="#expressions">expressions as units</a>
+                    <br><a class="link" href="#commaformulas">separation of formulas</a>
+                    <br><a class="link" href="#initialnot">notation starting sentence</a>
+                    <br><a class="link" href="#twoitems">"let <i>x,y</i> be"</a>
+                    <br><a class="link" href="#wordless">conditions in parentheses</a>
+                    <br><a class="link" href="#mixingwords">mixing words & notation</a>
+                    <br><a class="link" href="#letthen">"Let .... Then"</a>
+                    <br><a class="link" href="#hypothwds">"When/For/Since"</a>
+                    <br><a class="link" href="#asfor">"As/For" as reasons</a>
+                    <br><a class="link" href="#conclwds">"Hence/Thus/Therefore"</a>
+                    <br><a class="link" href="#bytheorem">"by Theorem X"</a>
+                    <br><a class="link" href="#sothat">"so" vs. "so that"</a>
+                    <br><a class="link" href="#suchso">"such that" vs. "so that"</a>
+                    <br><a class="link" href="#suppose">"Assume/Suppose/Let"</a>
+                    <br><a class="link" href="#anyevery">"any/each/every"</a>
+                    <br><a class="link" href="#universal">universal quantifiers</a>
+                    <br><a class="link" href="#fewer">"less/fewer"</a>
+                    <br><a class="link" href="#setsize">sets vs. sizes</a>
+                    <br><a class="link" href="#possessnot">possessives on notation</a>
+                    <br><a class="link" href="#nested">nested proofs</a>
+                    <br><a class="link" href="#bestposs">"best possible"</a>
+                    <br><a class="link" href="#numbers">numerals vs. words</a>
+                </sub>
+            </td>
+    
+            <td valign="top">
+                <sub>
+                    <b>Terminology/Notation</b>
+                    <br><a class="link" href="#defequals">":=" (for definitions)</a>
+                    <br><a class="link" href="#suchthatset">":" vs. "|" for "such that"</a>
+                    <br><a class="link" href="#list">"sequence/series/list"</a>
+                    <br><a class="link" href="#subtwo">"<i>v<sub>1</sub>,v<sub>2</sub>,&hellip;,v<sub>n</sub></i>"</a>
+                    <br><a class="link" href="#oplist">lists of relations</a>
+                    <br><a class="link" href="#varlist">"<i>k=1,2,...,n</i>"</a>
+                    <br><a class="link" href="#bigoh">"Big Oh" notation</a>
+                    <br><a class="link" href="#operators">"maximum degree &Delta;"</a>
+                    <br><a class="link" href="#hyphenation">hyphens for parameters</a>
+                    <br><a class="link" href="#vertex-edge">vertex vs. edge parameters</a>
+                    <br><a class="link" href="#twoword">two-word adjectives</a>
+                    <br><a class="link" href="#wellknown">adverbs and "well-known"</a>
+                    <br><a class="link" href="#pathnotat">notation for paths</a>
+                    <br><a class="link" href="#graphorder">order and size of graph</a>
+                    <br><a class="link" href="#graphelts">"<i>h&isin;G</i>"; graphs are not sets</a>
+                    <br><a class="link" href="#digraphs">digraphs and hypergraphs</a>
+                    <br><a class="link" href="#components">connected components</a>
+                    <br><a class="link" href="#maxlmaxm">"maximal" vs. "maximum"</a>
+                    <br><a class="link" href="#multichar">multicharacter operators</a>
+                    <br><a class="link" href="#inducton">"induct on", "by induction"</a>
+                    <br><a class="link" href="#cliques">"clique" or "complete subgr."</a>
+                    <br><a class="link" href="#isomorphism">isomorphism vs. subgraphs</a>
+                    <br><a class="link" href="#propercol">"proper coloring"</a>
+                    <br><a class="link" href="#parts">"partitions" vs. "parts"</a>
+                    <br><a class="link" href="#pairwise">"pairwise" vs. "mutually"</a>
+                    <br><a class="link" href="#disjoint">"pairwise disjoint/isomorphic"</a>
+                    <br><a class="link" href="#join">"union/join"</a>
+                    <br><a class="link" href="#between">edge or path "between"</a>
+                    <br><a class="link" href="#setminus">set minus</a>
+                    <br><a class="link" href="#handside">"left hand side"</a>
+                </sub>
+            </td>
+    
+            <td valign="top">
+                <sub>
+                    <b>English usage</b>
+                    <br><a class="link" href="#introwords">introductory words</a>
+                    <br><a class="link" href="#quotations">quotations/periods</a>
+                    <br><a class="link" href="#whichthat">which/that</a>
+                    <br><a class="link" href="#antecedents">antecedents</a>
+                    <br><a class="link" href="#nakedthis">naked "this"</a>
+                    <br><a class="link" href="#unique">"distinct/unique"</a>
+                    <br><a class="link" href="#contractions">contractions</a>
+                    <br><a class="link" href="#ie-eg">"i.e." and "e.g."</a>
+                    <br><a class="link" href="#differentthan">"different than"</a>
+                    <br><a class="link" href="#articles">articles ("a/the")</a>
+                    <br><a class="link" href="#possesstit">possessives & titles</a>
+                    <br><a class="link" href="#capitals">capitalization & titles</a>
+                    <br><a class="link" href="#adjectivename">adjectival names</a>
+                    <br><a class="link" href="#conjunctions">conjunctions & commas</a>
+                    <br><a class="link" href="#semicolons">semicolons</a>
+                    <br><a class="link" href="#extracommas">excessive commas</a>
+                    <br><a class="link" href="#serialcomma">serial comma</a>
+                    <br><a class="link" href="#appositives">appositives</a>
+                    <br><a class="link" href="#passive">passive voice</a>
+                    <br><a class="link" href="#thebelow">"the below"</a>
+                    <br><a class="link" href="#either">"either"</a>
+                    <br><a class="link" href="#perfect">"we have been proving"</a>
+                    <br><a class="link" href="#non">"non-" include hyphen?</a>
+                    <br><a class="link" href="#citation">"placement of citation"</a>
+                </sub>
+            </td>
+    
+            <td valign="top">
+                <sub>
+                    <b>For Non-native speakers</b>
+                    <br><a class="link" href="#boundof">"bound of"</a>
+                    <br><a class="link" href="#jointwork">"a joint work"</a>
+                    <br><a class="link" href="#few">"few" vs. "a few"</a>
+                    <br><a class="link" href="#usual">"usual"</a>
+                    <br><a class="link" href="#partialcase">"partial case"</a>
+                    <br><a class="link" href="#pass">"passing a vertex"</a>
+                    <br><a class="link" href="#cannot">"can not" and "may be"</a>
+                    <br><a class="link" href="#evidently">"evidently"</a>
+                    <br><a class="link" href="#principle">"principal" vs. "principle"</a>
+                    <br><a class="link" href="#extracom">more extra commas</a>
+                    <br><a class="link" href="#dontuse">expressions to avoid</a>
+                </sub>
+            </td>
+        </tr>
+    </table>
+    <!--indexend!-->
+    
+    <h2>Introduction and Motivation</h2>
+    <p>
+        Live mathematical conversations use many shortcuts that are inappropriate in
+        precise mathematical writing. The context is known by all participants, and
+        shortcuts evolve to save time. Furthermore, the speaker can immediately
+        clarify ambiguity. Without immediate access to the author, written mathematics
+        must use language more carefully. Also, mathematical concepts are abstract,
+        without context from everyday experience, so the writing must be more
+        consistent to make the meaning clear. Outside mathematics, imprecise writing
+        can still be understood because the objects and concepts discussed are familiar.
+    
+    <p>
+        Some mathematicians object to some of my recommendations. Many time-honored
+        practices in the writing of mathematics are grammatically incorrect. These
+        mistakes in writing cause no difficulty for readers with sufficient
+        mathematical sophistication or familiarity with the subject, but it is
+        unnecessary to restrict the audience to such readers. A bit of care leads to
+        clearer writing that makes mathematics more easily accessible and readable to a
+        wider and less specialized audience.
+    
+    <p>
+        Some languages have conventions of usage or grammar that lead to typical errors
+        in English mathematical writing by their native speakers. I discuss some
+        such items in a separate section at the end. I use some terminology for
+        English parts of speech and punctuation in the explanations. I hope that
+        readers who are unfamiliar with these terms will still benefit from seeing
+        the recommendations.
+    
+    <p>
+        I apologize in advance for my own grammatical errors. Habits die hard, and it
+        is easy to err in applying principles of writing. In particular, there are
+        inconsistencies between what I propose here and what I wrote in my earlier
+        books. Those books were written in the previous millennium, and I have learned
+        many things about writing since then. Also, I am a speaker of American
+        English, and some points are consistently different in British English (such as
+        the treatment of "which" vs. "that" and the aversion to serial commas).
+    
+    <p>
+        Some of my conclusions conflict with manuals of English style. My conclusions
+        are intended to produce clear mathematical writing that is more logically
+        consistent than publishers' conventions. This applies especially to
+        punctuation and to words that serve as logical connectives.
+    
+    <p>
+        I welcome corrections, suggestions/inquiries, and "pet peeves" that may lead to
+        further items in later versions of this guide.
+    
+    <ol>
+        <h2><a name="mathusage">Mathematical style</a></h2>
+    
+        <p>
+            <li>
+                <a name="conclusion">
+                    <i>Abstract, Introduction, and Conclusion.</i>
+                    We begin with the overall structure of a research article in mathematics.
+                    The abstract states the results as fully as possible in a brief presentation.
+                    Crucial specialized terms the reader needs to know to understand the statements
+                    should be defined. The abstract stands on its own, especially in the age of
+                    electronic communication where it may be separate from the rest of the paper,
+                    and hence it contains no numbered reference to the bibliography.
+    
+                    <p>
+                        The first section of the paper is an "Introduction" that should motivate the
+                        problem, discuss related results, state the results more completely, and
+                        perhaps summarize the techniques or the structure of the paper or crucial
+                        definitions.
+    
+                        <p> The introduction should also contain any <i>concluding remarks</i> or key
+                            conjectures. There is generally little or no value in a separate section of
+                            concluding remarks. Such remarks either are redundant or contain information
+                            that readers usually seek in the introduction. Readers who study the full
+                            details of the proofs have no need of a summary in a concluding section.
+                            Readers who do not read the full details have no desire to go on to a
+                            concluding section. A mathematical research article is not read like a
+                            novel or even like an essay that seeks to "persuade" the reader; it does not
+                            need an epilogue.
+    
+                        <p>
+            <li>
+                <a name="definitions"><i>Definitions.</i></a>
+                Words being defined should be distinguished by italics (or perhaps boldface in
+                a textbook context). When italics are used to indicate a word being defined,
+                it is unnecessary to use "called" or "said to be"; the use of italics
+                announces that this is the term being defined and replaces these words.
+    
+                <p>
+                    Many definitions are phrased as "An object has property <i>italicized term</i>
+                    <b>if</b> <i>condition</i> holds." Here we use the word "if" even though
+                    subsequently it is understood that an object satisfies the property being
+                    defined <i>if and only if</i> the given condition holds. The italicization
+                    alerts the reader to this situation. The convention can be justified by saying
+                    that the property or object does not actually exist until the definition is
+                    complete, so one does not yet in the definition formally say that the named
+                    property is equivalent to the condition.
+    
+                <p>
+                    Definitions written by non-native speakers sometimes contain extra commas.
+                    In each sentence below, the comma should be deleted.
+                    <br>&nbsp;&nbsp;
+                    "A <i>bipartite graph</i>, is a graph that is 2-colorable".
+                    <br>&nbsp;&nbsp;
+                    "A graph is <i>bipartite</i>, if it is 2-colorable".
+                    <br>
+                    The first example is a mistaken placement of a comma inside a clause (see
+                    discussion of <a class="link" href="#extracommas">Commas</a>).
+    
+                <p>
+                    Note the difference in italicization above. When written as an adjective-noun
+                    combination, the term being defined is the name for structures that have the
+                    property; hence the full term <i>bipartite graph</i> is italicized. When the
+                    property alone is being defined and is positioned as a predicate adjective,
+                    only the adjective is italicized.
+    
+                <p>
+            <li>
+                <a name="where">
+                    <i>"Where".</i>
+                    A formula may contain notation that has not yet been defined, if the definition
+                    of that notation follows immediately in the same sentence. The formula is then
+                    followed by a comma and the word "where" to introduce the definition. For
+                    example, "If <i>G</i> is a bipartite graph, then <i>&chi;'(G)&le;&Delta;(G)</i>,
+                    where <i>&chi;'(G)</i> is the edge-chromatic number and <i>&Delta;(G)</i> is the
+                    maximum degree of <i>G</i>." (Technically, the second comma is needed because
+                    the subsequent definition is an <a class="link" href="#appositive">appositive</a>).
+    
+                    <p>
+                        Note the difference between "where" and "such that".
+                        "Where" is used when the preceding notation is being defined; "such that"
+                        is used when it is already defined and its value is being restricted.
+    
+                        <p>
+            <li>
+                <a name="dblduty"><i>Double-Duty Definitions.</i></a>
+                One cannot make a statement about an object before the object has been defined.
+                Similarly, one cannot use notation as part of a formula making a statement
+                about the denoted object unless the notation has previously been defined. In
+                particular, these tasks cannot correctly be accomplished at the same time with
+                one instance of the notation.
+                For example, "The <i>neighborhood</i> of a vertex <i>v</i> is
+                <i>N(v)={u: uv&isin; E(G)}</i>"
+                is incorrect. With a subject and a verb before the equation, the equation
+                is a single unit (see <a class="link" href="#expressions">expressions as units</a>).
+                This sentence defines the neighborhood of <i>v</i> to be a particular
+                equation, and it does not define the notation <i>N(v)</i>.
+    
+                <p>
+                    Of course, readers sufficiently familiar with the context have no trouble
+                    understanding what is meant, but why disenfranchise other readers? One can
+                    just as easily write "The <i>neighborhood</i> of a vertex <i>v</i>, denoted
+                    <i>N(v)</i>, is <i>{u: uv&isin; E(G)}</i>". Alternatively, one can introduce
+                    the notation as an <a class="link" href="#appositive">appositive</a> in a conventional
+                    position immediate after the term defined: "The <i>neighborhood</i> <i>N(v)</i>
+                    of a vertex <i>v</i> is <i>{u: uv&isin; E(G)}</i>".
+    
+                <p>
+                    <a name="G=V,E">
+                        A common Double-Duty definition is "Let <i>G=(V,E)</i> be a graph". The
+                        sentence defines the equation <i>G=(V,E)</i> to be a graph. Of course, the
+                        writer intends simultaneously to introduce notation for a particular graph and
+                        its vertex set and edge set, but that is not what the sentence says. It is
+                        better to write "Let <i>G</i> be a graph" and use operators <i>V</i> and
+                        <i>E</i> to refer to the vertex and edge sets of <i>G</i> as <i>V(G)</i> and
+                        <i>E(G)</i> (see also <a class="link" href="#operators">Operators vs. constants</a>.)
+    
+                        <p>
+                            A more subtle example is "For each <i>1&le; i&le; n</i>,". The introduction of
+                            the notation <i>i</i> has been lost because the inequalities impose conditions
+                            on it before it is defined. Since the expression is a unit, grammatically the
+                            phrase is referring to each inequality written in this way. Correct
+                            alternatives that express the intended meaning include "For all <i>i</i> such
+                            that <i>1&le;i&le;n</i>", "For <i>i&isin;[n]</i>", and "For
+                            <i>1&le;i&le;n</i>". The third option is slightly different from the others;
+                            it means "whenever <i>i</i> is such that the conditions hold", implicitly
+                            introducing <i>i</i> in a specified range but avoiding the grammatical problem.
+    
+                            <p>
+            <li>
+                <a name="expressions"><i>Expressions as units.</i></a>
+                Is an equation or inequality a noun unit, or is it read with the relational
+                symbol as a verb? Treating the symbol as a verb often forces rereading to
+                clarify the meaning, and one often wants to have another verb in the sentence.
+                For these reasons, it is best to treat notational expressions as single objects
+                (that is, nouns), with some exceptions.
+    
+                <p>
+                    For example, "there exists <i>i&lt;j</i> with
+                    <i>x<sub>i</sub>=x<sub>j</sub></i>" ascribes a property to the inequality
+                    <i>i&lt;j</i> (and is a Double-Duty Definition of <i>i</i>). Without context,
+                    it is hard to tell that the author meant "there exists <i>i</i> such that
+                    <i>i&lt;j</i> and <i>x<sub>i</sub>=x<sub>j</sub></i>". Consider also "The
+                    number of nonneighbors is <i>n-1-d(u)&ge; i</i>." The number of nonneighbors is
+                    not an inequality, it is a number; the author is trying to make two statements
+                    in one inequality. For clarity, separate the statements: "The number of
+                    nonneighbors is <i>n-1-d(u)</i>, which is at least <i>i</i>".
+    
+                <p>
+                    <i>Exceptions.</i> Applying this principle with very simple expressions leads
+                    to ponderous writing. Here are two notable exceptions:
+                    <br>&nbsp;&nbsp;
+                    1) In "Choose <i>x&isin; V(G)</i> such that <i>x</i> has minimum degree," we
+                    are choosing <i>x</i>, not the expression "<i>x&isin; V(G)</i>". The
+                    justification for this exception is that the membership or containment symbol
+                    is read as "in", which is not a verb. (One can treat nonmembership in the same
+                    way.)
+                    <br>&nbsp;&nbsp;
+                    2) "Let <i>G'=G-x</i>". When introducing notation for an object or expression
+                    by a single imperative verb ("let", "set", "put", "choose", etc.), we read the
+                    equality symbol as the verb "equal", truly an exception. This exception can
+                    be recognized by the lack of any English verb in the sentence. Continuing with
+                    another verb, as in "Let <i>G'=G-x</i> be ...", would produce
+                    a <a class="link" href="#dblduty">Double Duty Definition</a>.
+    
+                <p>
+                    If the introductory part of the sentence is longer, then we may already have a
+                    noun and a verb, and the expression again becomes a unit. For example,
+                    "Include each vertex independently with probability <i>p=(</i>ln<i> n)/n</i>"
+                    should be "Include each vertex independently with probability <i>p</i>, where
+                    <i>p=(</i>ln<i> n)/n</i>".
+    
+                <p>
+            <li>
+                <a name="commaformulas">
+                    <i>Separation of formulas.</i>
+                    Avoid placing two formulas consecutively, separated only by a comma. For
+                    example, "For <i>x<0</i>, <i>x&sup2;>0</i>" may be read as something other than
+                            a hypothesis and a conclusion. Similarly, "For some <i>k</i> with
+                            <i>k&lt;n</i>, <i>n-k+f(n)&lt;n/2</i>" requires the reader to stop and go back
+                            to insert the missing words. The difficulty arises because commas occur also
+                            in notation, and the eye cannot distinguish between commas that occur in
+                            notation and commas that are intended to cause a pause or to substitute for
+                            words.
+                            The mathematics will be easier to read when the formulas are separated by the
+                            comma plus words that enable the reader to understand the sentence at the first
+                            reading. Such phrases are "it follows that", "we have", etc.
+    
+                            <p>
+                                [On the other hand, "we have" is an awkward phrase that often should be
+                                dropped when not needed to separate formulas. For example, instead of
+                                "By the preceding theorem, we have <i>A=B</i>," prefer "By the preceding
+                                theorem, <i>A=B</i>".]
+    
+                            <p>
+                                When the second formula just specifies an object, the separation can be
+                                accomplished by specifying the type of object, as in "When <i>k=2</i>, the
+                                graph <i>G</i> is Eulerian" instead of "When <i>k=2</i>, <i>G</i> is Eulerian."
+                                One can always rewrite notational expressions separated by a comma to avoid
+                                the difficulty. Usually this is easy, as in changing "For every bipartite
+                                graph <i>G</i>, <i>&chi;(G)&le;2</i>" to "If <i>G</i> is bipartite, then
+                                <i>&chi;(G)&le;2</i>".
+    
+                            <p>
+            <li>
+                <a name="initialnot">
+                    <i>Initial notation.</i>
+                    Never begin a sentence with notation. Always one can prepend a specifier (such
+                    as "The graph <i>G</i> is" instead of "<i>G</i> is") or rewrite the sentence in
+                    another way to avoid starting with notation. Following this rule makes
+                    mathematics easier to read. The principle here is similar to the separation
+                    of formulas. An exception is that the statement of a numbered theorem may
+                    begin (or be entirely) a formula, because the numbered designation serves as
+                    a label that begins the sentence.
+    
+                    <p>
+            <li>
+                <a name="twoitems">
+                    <i>Lists of size 2.</i>
+                    It is common but ungrammatical to write "Let <i>x,y</i> be vertices in
+                    <i>G</i>"; we would not write "My friends John, Mary came to dinner."
+                    The concatenation is an instance of two formulas separated by a comma.
+                    To see what can go wrong, consider the following clause:
+                    "Since <i>a|b</i> and <i>a,b</i> are maximal and minimal,".
+                    What was meant was:
+                    "Since <i>a|b</i>, with <i>a</i> maximal and <i>b</i> minimal,".
+                    In general, the comma within a list of two elements should be replaced with
+                    "and" when discussing the two elements as individual items. For example, "If
+                    <i>x,y</i> are adjacent" should be "If <i>x</i> and <i>y</i> are
+                    adjacent" or "If <i>{x,y}</i> is a pair of adjacent vertices".
+    
+    
+                    <p>
+                        <i>Exceptions.</i>
+                        With lists of size at least three, omission of "and" does not cause as much
+                        confusion, and including it can be awkard. Here the objection to the common
+                        mathematical convention is much weaker: we accept "Let <i>x,y,z</i> be the
+                        vertices of <i>T</i>," although writing "Let <i>{x,y,z}</i> be the vertex set
+                        of <i>T</i>" would be more precise. Still, "let <i>x</i>, <i>y</i>, and
+                        <i>z</i> be the vertices" reads better.
+    
+                        <p>
+                            Another sensible exception is "Choose <i>x,y&isin; V(G)</i>". Here the relation
+                            is between each variable and the set, and we accept this as a single formula.
+                            Again a justification is that we can read <i>&isin;</i> as the single word
+                            "in", without a verb. Similarly, many mathematicians write, "For
+                            <i>n,m&ge;2</i>" to mean the conjunction of <i>n&ge;2</i> and <i>m&ge;2</i>.
+                            The exception for the membership symbol is consistent with other exceptions for
+                            the membership symbol; doing it with inequalities is more questionable. Avoid
+                            doing it with equalities (see <a class="link" href="#varlist">Variable equal to list</a>).
+    
+                            it unnecessarily requires a pause for the reader to figure it out.
+                        <p>
+            <li>
+                <a name="wordless">
+                    <i>Parenthetic or wordless restrictions</i>.
+                    Many writers of mathematics impose restrictions parenthetically or via commas,
+                    thereby omitting words in sentences and juxtaposing formulas. This makes
+                    reading unnecessarily difficult. Parentheses around notation are mathematical
+                    objects and hence cannot substitute for words. A phrase like "Let
+                    <i>m(m&le;n)</i> be the size" is immediately clear only to the author.
+    
+                    <p>Other examples: "Suppose there is an edge <i>xy (&ne;e)</i> in <i>G</i>"
+                        should be "Suppose that <i>G</i> has an edge <i>xy</i> other than <i>e</i>".
+                        Similarly, "For <i>k&le;m</i> with <i>k</i> even"
+                        improves on "For <i>k&le;m</i> (<i>k</i> even)" or "For <i>k&le;m</i>, <i>k</i>
+                        even", and "Consider <i>a<sub>i</sub></i> for <i>1&le;i&le;n</i>" is better
+                        than "Consider <i>a<sub>i</sub></i> (<i>1&le;i&le;n</i>)". One can also
+                        separate by putting words into the parentheses: "For <i>k&le; m</i> (where
+                        <i>k</i> is even)". Note that "Suppose that there is an edge <i>xy&ne;e</i> in
+                        <i>G</i>" is a <a class="link" href="#dblduty">Double-Duty Definition</a>; "<i>xy&ne;e</i>"
+                        is not an edge.
+    
+                        <p>
+            <li>
+                <a name="mixingwords">
+                    <i>Mixing words and notation.</i>
+                    Words cannot be compared with notation via a relational symbol. Do not write
+                    "Consider a graph <i>G</i> with maximum degree <i>&le; k</i>". Grammatically,
+                    the sentence does not indicate where the inequality starts. If one side is
+                    written in words, then the relation must also be written in words.
+                    Furthermore, the sentence above says that the maximum degree of <i>G</i>
+                    equals the expression "<i>&le; k</i>".
+    
+                    <p>
+                        The same principle applies to logical symbols. In written mathematics, do not
+                        use the symbols &exist;,&forall;,&rArr;,iff) to substitute for words in
+                        sentences. Shorthand notation used to save space on lecture slides need not
+                        follow these restrictions, since the slides summarize the lecture and are
+                        accompanied by oral explanation.
+    
+                        <p>
+            <li>
+                <a name="letthen">
+                    <i>Statements of implication ("Let ... Then").</i>
+                    The common two-sentence mathematical construction
+                    <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                    "Let <i>hypothesis</i>. Then <i>conclusion</i>."
+                    <br>
+                    is grammatically incorrect. The second sentence is not a sentence, since the
+                    implicative sense of "then" plays the role of a
+                    <a class="link" href="#conjunctions">conjunction</a>. The simpler form
+                    <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                    "If <i>hypothesis</i>, then <i>conclusion</i>."
+                    <br>
+                    is less choppy, easier to read, grammatically correct, and faithful to the
+                    mathematical sense of a conditional statement. When there are many hypotheses,
+                    resulting in too long a sentence, some creativity can be applied. First a
+                    sentence (perhaps beginning with "Let") sets the context. The last crucial
+                    hypothesis is saved for a statement of implication, using the "If/then" form.
+    
+                    <p>
+                        Used at the beginning of a sentence, the English word "Then" is temporal, as
+                        in "Then we left." Since the implicative sense of "then" is so common in
+                        mathematics, the temporal sense should rarely be used, to avoid confusion.
+                        Usually the temporal "then" at the beginning of a sentence can be changed to
+                        "Now" or "Next" with less confusion and essentially the same (and more
+                        accurate) meaning, especially in a proof.
+    
+                        <p>
+                            Writing "Let . . ., then . . ." in one sentence is similarly problematic.
+                            This sentence is constructed from one correct sentence by changing the first
+                            clause to a completely different sentence. The content is that of a
+                            conditional statement, but it is not written as a conditional statement.
+                            This style seems to result from a conscious effort to subordinate language
+                            to jargon.
+    
+    
+                        <p>
+            <li>
+                <a name="hypothwds">
+                    <i>Words of hypothesis: "If", "When", "For", "Since".</i>
+                    For ease of understanding, a sentence that begins with "If" should later
+                    have ", then" to start the conclusion. The word "then" should not be omitted,
+                    and a comma should precede it. The comma can be omitted in a brief implication
+                    contained within a clause already set off by a comma, as in "Since <i>f</i> is
+                    the squaring function, if <i>x=0</i> then <i>f(x)=0</i>".
+    
+                    <p>
+                        When readability would be improved by omitting "then", the sentence should
+                        instead start with "When" or "For", as in this sentence itself. A comma still
+                        follows the condition introduced by "When" or "For". The structure of a
+                        sentence beginning with "Since" is like those beginning with "When" or "For"; a
+                        comma follows the first clause. After "Since" or "Because", the concluding
+                        clause <i>cannot</i> begin with "then" or "so"; "then" is used only with "If".
+    
+                        <p>
+            <li>
+                <a name="asfor">
+                    <i>"As" and "For" introducing reasons.</i>
+                    In English, the words "as" and "for" may be used to introduce a reason given
+                    after the statement of the conclusion from that reason. For example:
+                    "I ate early today, for I was hungry," or "He stopped writing his answer, as
+                    time had expired." Banish these uses from mathematical writing; they introduce
+                    confusion, especially for non-native readers. "As" also means "like", and
+                    "for" is most often used to specify a universe. Compare "The degree is at
+                    least one, for a vertex in the neighborhood" with "The degree is at least one,
+                    for a vertex in the neighborhood is not isolated." The meanings of "for"
+                    differ, but the reader does not discover that until the end of the sentence.
+    
+                    <p>
+            <li>
+                <a name="conclwds">
+                    <i>Words of conclusion: "Hence", "Thus", "Therefore"</i>
+                    A long proof does not fit in a single sentence; hence often one needs a word
+                    to start a sentence that states a conclusion. Among the choices are
+                    "Therefore", "Hence", and "Thus". Purists (and copy editors) desire a comma
+                    after every such introductory word or phrase (as they do after "Finally", "On
+                    the other hand", "In 1965", etc.). This can make language overly formal.
+    
+                    <p>
+                        Among these choices, I treat "Therefore" as the most formal, introducing a
+                        major conclusion and hence taking a comma. Because "Hence" and "Thus" are
+                        single syllables, I use them without commas to indicate the flow of argument
+                        without making the writing choppy. This choice modifies strict English
+                        punctuation in the service of mathematical understanding. It is not incorrect
+                        to put commas after all these introductory words, but it enhances mathematical
+                        communication to omit the commas after short words introducing short
+                        conclusions that are just a step along the way. Copy editors put in the
+                        commas, and I insist that they be removed again.
+    
+                        <p>
+            <li>
+                <a name="bytheorem">
+                    <i>"by theorem X".</i>
+                    Consider the sentence "Since <i>G</i> has at least <i>3n-5</i> edges, by
+                    Theorem X, we know that <i>G</i> is not planar." Does Theorem X imply
+                    that <i>G</i> has at least <i>3n-5</i> edges or that <i>G</i> is not planar?
+                    Since the reader will not know the author's intent, "by Theorem X" should
+                    not be placed between a reason and a conclusion without clearer indication
+                    of which meaning is intended. Dropping one comma makes it clearer, as in
+                    "Since <i>G</i> has at least <i>3n-5</i> edges, by Theorem X we know that
+                    <i>G</i> is not planar" or "Since <i>G</i> has at least <i>3n-5</i> edges
+                    by Theorem X, we know that <i>G</i> is not planar". However, the second option
+                    can be written better as "By Theorem X, <i>G</i> has at least <i>3n-5</i>
+                    edges, and therefore <i>G</i> is not planar". Alternatively, a reader
+                    suggested using parentheses, as in "Note that <i>G</i> has at least <i>3n-5</i>
+                    edges (by Theorem X), and hence <i>G</i> is not planar."
+    
+                    <p>
+            <li>
+                <a name="sothat">
+                    <i>"So" and "so that".</i>
+                    Because of its other uses in English, "So" is too informal to introduce a
+                    sentence of conclusion (with or without being followed by a comma). It is best
+                    to reserve "so" for use as a conjunction, like "but": "The graph is connected,
+                    so each vertex is reachable from every other vertex." In this usage, no word
+                    is needed to introduce the reason that precedes the conclusion.
+                    As a <a class="link" href="#conjunctions">conjunction</a>, "so" is preceded by a comma, not a
+                    semicolon: "The graph has no odd cycles, so it is bipartite." This form is
+                    best used when the conclusion is short. <i>When "so" is used as a conjunction,
+                        there is no "that"</i>. Thus "We have <i>x&sup2;=0</i>, so that <i>x=0</i>"
+                    should instead be "We have <i>x&sup2;=0</i>, so <i>x=0</i>".)
+    
+    
+                    <p>
+            <li>
+                <a name="suchso">
+                    <i>"Such that" vs. "so that".</i>
+                    "So that" means "in such a way that". Use "such that" when imposing a
+                    condition on an object and "so that" when performing an action in a certain
+                    way. That is, "so that" requires a verb and describes how the action is done,
+                    while "such that" restricts a noun. Compare "Consider a graph such that no
+                    vertex is isolated" and "Color the graph so that no two adjacent vertices have
+                    the same color. What follows "such that" modifies "graph", but what follows
+                    "so that" describes how the coloring is performed.
+    
+                    <p>
+            <li>
+                <a name="suppose">
+                    <i>"Assume", "Suppose", and "Let"</i>
+                    A statement that is <i>assumed</i> is an axiom, considered throughout to be
+                    true. Something <i>supposed</i> is a hypothesis. Hence "Suppose" or "Suppose
+                    that" is more appropriate to introduce a case or an argument by contradiction.
+                    In contrast, "we may assume" introduces a consequence of an argument or
+                    symmetry and henceforth will be true. I do not really understand the
+                    phrase <i>"Assume for a contradiction that"</i>; use "Suppose to the contrary
+                    that". Similarly, do not use the incomprehensible "By way of contradiction";
+                    a possibility is "Toward a contradiction, suppose that".
+    
+                    <p>
+                        <i>"Suppose" vs. "Suppose that".</i>
+                        After words of hypothesis or conclusion ("suppose", "assume", "implies",
+                        "conclude", etc), use "that" when what follows is a clause with an English
+                        verb. Omit "that" when what follows is just a noun unit, such as a notional
+                        expression. For example, "Assume the hypothesis" is a complete sentence with
+                        imperative verb and object. The structure is the same in "Suppose
+                        <i>x+y&le;10</i>". When an English verb follows, we have "Suppose that
+                        <i>f</i> is a proper coloring".
+    
+                        <p>
+                            This distinction is a matter of some debate. Some more formal authors use
+                            "Suppose that" when what follows is a formula containing a relational symbol,
+                            treating the symbol as a verb. I think it is better to maintain the
+                            consistency of treating formulas as noun units. The clarification accomplished
+                            by "that" when a verb follows become unnecessary when the clause is condensed
+                            into notation. When the notation is displayed, its role as a fact (noun) is
+                            clearer and makes "that" especially unnecessary; the use of "that" should be
+                            the same when the formula is not displayed. A related example is "the case
+                            <i>k=2</i>", as opposed to "the case that <i>k=2</i>"; here "<i>k=2</i>" is the
+                            case, which is a noun, so there is no "that".
+    
+                        <p>
+                            Writers who always drop "that" from "Suppose that" have a valid point.
+                            In spoken English, we usually drop "that" in this conntext to avoid ponderous
+                            language. When the instruction is informal, without abstract concepts, it is
+                            reasonable to drop "that". For example, "Suppose the hypothesis is true" would
+                            be awkward with "that". Similarly, the very short "Suppose there is" would be
+                            awkward with "that" after "Suppose". Here the verb is gone before one even
+                            notices it; this is almost like "Suppose [notation]".
+    
+                        <p>
+                            This exception may seem awkward. A better solution when introducing notation
+                            is to avoid "Suppose <i>x</i> is" entirely: "Let <i>G</i> be a graph" is better
+                            than "Suppose <i>G</i> is a graph". Compare "Suppose <i>x=1</i>" and "Let
+                            <i>x=1</i>". The first assumes the truth of an equality and treats the
+                            equation is a unit. The second is more active. Because we never say "Let that
+                            . . .", we either view "Let" as the verb or view the equality sign as the verb.
+                            This usage of "Let" is an exception to the treatment of
+                            <a class="link" href="#expressions">expressions as noun units</a>; it is not used with
+                            inequalities, because an inequality sign would need to be read as the lengthy
+                            "be less than or equal to" to become a verb.
+    
+                        <p>
+            <li>
+                <a name="anyevery">
+                    <i>Universal quantifiers.</i>
+                    The word "any" can mean "some" or "all" in different contexts, so it can
+                    be imprecise. It is clearer to use "each" or "every" as a universal
+                    quantifier when referring to a singular object.
+    
+    
+                    <p>
+                        Numbered plural variables cause difficulty. In English, "for every two
+                        elements" is awkward because "every" is singular. Thus here it is better to
+                        say "for any two elements". The presence of "for" is suggestive of the
+                        universal quantification and helps avoid ambiguity. Confusion can still arise:
+                        consider "Form <i>G'</i> from <i>G</i> by adding an edge joining any two
+                        vertices with distance 2 in <i>G</i>." Here some readers will think that only
+                        one edge is added.
+    
+                        <p>
+                            Avoiding "any" is not imperative. Evaluate its use in context, making sure
+                            to prevent misinterpretation. "Any" is a good substitute for "an arbitrary",
+                            and the meaning of "not any" is fairly clear.
+                            ("arbitrary" indicates that all ways of making the choice are allowed.)
+    
+                        <p>
+                            Using an indefinite article ("a" or "an") as a universal quantifier can be
+                            dangerous, as in "Prove that a bipartite graph has no odd cycle." Some readers
+                            (often students) may interpret "a" as "one" or "some", turning universality
+                            into existence. Using "every" is clearer. Putting "must" before the
+                            conclusion can suggest universality but is usually unnecessary.
+    
+                        <p>
+            <li>
+                <a name="universal">
+                    <i>Position of universal quantifiers.</i>
+                    In a logical formula, a quantifier specify the universe over which the formula
+                    holds is placed before the formula. In written words, a single universal
+                    quantification may read better with the quantifier at the end. This order also
+                    better emphasizes the conclusion. For example, one might prefer to change "For
+                    every graph <i>G</i> that is bipartite, <i>&chi;(G)&le;2</i>" into "Always
+                    <i>&chi;(G)&le;2</i> when <i>G</i> is bipartite". Similarly,
+                    "<i>a<sub>i</sub>&isin;S</i> for <i>1&le;i&le;n</i>" improves on "for
+                    <i>1&le;i&le;n, a<sub>i</sub>&isin;S</i>".
+    
+                    <p>
+            <li>
+                <a name="fewer">
+                    <i>"Less" vs. "fewer".</i>
+                    Use "less" when comparing numbers, and use "fewer" when referring to a set
+                    of objects. For example, "the number of edges is less than <i>k</i>" is
+                    correct, as is "the graph has fewer than <i>k</i> edges" or "<i>G'</i> has
+                    fewer edges than <i>G</i>".
+    
+                    <p>
+            <li>
+                <a name="setsize">
+                    <i>A set differs from its size.</i>
+                    Comparing incomparable quantities is often called "comparing apples and
+                    oranges". One cannot compare a set with an integer; it is incorrect to write
+                    "Sperner proved that no antichain of subsets of an <i>n</i>-set is larger than
+                    <i>C(n,</i>&lfloor;<i>n/2</i>&rfloor;<i>)</i>". One must distinguish between a
+                    set and its size. Here one can write "no antichain has size greater than
+                    <i>C(n,</i>&lfloor;<i>n/2</i>&rfloor;<i>)</i>" or "no antichain has more than
+                    <i>C(n,</i>&lfloor;<i>n/2</i>&rfloor;<i>)</i> elements". (Due to the inadequacy
+                    of html, we use the notation <i>C(n,k)</i> for the binomial coefficient
+                    "<i>n</i> choose <i>k</i>".)
+    
+                    <p>
+            <li>
+                <a name="estimate">
+                    <i>"Estimate".</i>
+                    Many mathematicians, particularly analysts, use the English word "estimate" as
+                    if it had the same meaning as the English word "bound" (both as a noun and
+                    as a verb). They write "now we estimate this quantity" when they mean "now we
+                    prove an upper bound on this quantity". In English, "estimate" means
+                    "approximate"; both upper and lower bounds are needed to give an estimate.
+                    This common usage by analysts is incorrect English and does not say what is
+                    meant, even when they assume an unstated implicit lower bound of <i>0</i>.
+    
+                    <p>
+            <li>
+                <a name="possessnot">
+                    <i>Possessives on notation.</i>
+                    Do not write "Let <i>x</i> and <i>y</i> be <i>v</i>'s neighbors"; always
+                    use "of" ("the neighbors of <i>v</i>") instead. Similarly, do not pluralize
+                    notation by referring to indexed elements or sets together as "the
+                    <i>a<sub>i</sub>'s</i>". Usually "each <i>a<sub>i</sub></i>" or
+                    "<i>a<sub>1</sub>,&hellip;a<sub>n</sub></i>" or some other notation is
+                    preferable. Possessives and plurals of this sort should be reserved for
+                    informal oral communication.
+    
+                    <p>
+            <li>
+                <a name="nested">
+                    <i>Nested proofs.</i>
+                    Do not nest proof environments. No new proof label should occur before the
+                    end-of-proof marker for the current proof.
+    
+                    <p>
+            <li>
+                <a name="bestposs">
+                    <i>"Best possible".</i>
+                    "Best possible" is an adjective used as a single term; it indicates sharpness.
+                    We write "This result is best possible", just as we would write "This result is
+                    sharp". "This result is the best possible" indicates that this result is
+                    better or more valuable aesthetically than all other results in the world,
+                    which is not what is meant. The definite article should not be used here.
+                    Think of "best possible" as a technical term that is already a specific
+                    predicate adjective, so no definite article is needed.
+    
+                    <p>
+                        The informal phrase "is most likely" is similar to "is best possible"; there
+                        is no article because "most likely" is used as a single term. It means that
+                        the probability is high, whereas "is the most likely" means having higher
+                        probability than any other outcome. Another example is "best practice", which
+                        is a single technical term in areas of management. It is used as a single
+                        term, without "the". For example, I have seen the title "Best Practices in
+                        Online and Blended Learning and Teaching".
+    
+                        <p>Although "This result is best possible" is a complete sentence, it is
+                            somewhat vague, since it does not specify the sense in which the result cannot
+                            be improved. Often it is more informative to say something like "the constant
+                            in the upper bound cannot be improved". For this reason, some writers suggest
+                            avoiding the term "best possible".
+    
+    
+    
+                        <p>
+            <li>
+                <a name="numbers">
+                    <i>Numerals and spelled numbers.</i>
+                    In standard English writing, numbers less than 10 usually are spelled in full,
+                    while numbers more than 10 are written in numerals. In mathematical writing,
+                    the basis for the distinction is different. Numbers less than 10 are spelled
+                    out only when used as adjectives expressing the quantity of objects in a set.
+                    They must remain as numerals when designating the value that a quantity equals.
+                    For example, "The two vertices both have degree 3" or "A cycle of length 4 has
+                    four edges" or "Consider a 4-vertex path" or "Consider a path with four
+                    vertices". A reader provided another excellent example; compare the two
+                    sentences below:
+                    <br>
+                    &nbsp;&nbsp; Although <i>X</i> is not a cycle, its Betti invariant is 1.
+                    <br>
+                    &nbsp;&nbsp; Although <i>X</i> is not a cycle, its Betti invariant is one.
+                    <br>
+                    The first sentence says that the Betti invariant of <i>X</i> equals 1.
+                    The second sentence says that the Betti invariant of <i>X</i> is a cycle.
+    
+    
+                    <p>
+                        <h2><a name="notation">Terminology and notation (especially in discrete
+                                mathematics)</a></h2>
+    
+                        <p>
+            <li>
+                <a name="defequals">
+                    <i>Definition symbol</i> ":=".
+                    Some mathematicians use this symbol to indicate that the preceding symbol
+                    is being defined to mean the subsequent object. If this occurs in a sentence
+                    like "Let <i>[n]:={1,&hellip;,n}</i>", then the verb states that the notation is
+                    being defined, and the special notation is unnecessary. If it occurs in a
+                    sentence about the object being defined, such as "Consider a coloring of
+                    <i>[n]:={1,&hellip;,n}</i>", then it is an improper
+                    <a class="link" href="#dblduty">Double-Duty Definition</a> and should be rewritten:
+                    "Consider a coloring of <i>[n]</i>, where <i>[n]={1,&hellip;,n}</i>." Reading
+                    ":=" requires thinking "be defined to be" when preceded by "let", and it
+                    requires even more convoluted phrases when placed in a Double-Duty Definition.
+                    This awkward notation is never needed and encourages grammatical errors.
+    
+                    <p>
+            <li>
+                <a name="suchthatset">
+                    <i>"Such that" in set definitions:</i> ":" <i>vs.</i> "|".
+                    For many reasons, the colon ":" is a far better choice than the vertical bar "|"
+                    to mean "such that" in a "notation/condition" definition for a set. For
+                    example, we may write "{<i>3n+1: n&isin;</i><b>N</b>}". The vertical bar
+                    is heavily used in mathematics, most notably for size of sets, but also for
+                    divisibility and other purposes. Using it for this purpose leads to such
+                    messes as "{<i>|A|||A|||B|</i>}", which purports to describe the set of
+                    sizes of sets <i>A</i> whose size divides the size of <i>B</i>. The colon is
+                    far less used in mathematics. Even so, the best reason for using the colon is
+                    that this mathematical usage is similar to the meaning of the character in
+                    English; it separates part of a sentence from some elaboration of that part.
+                    Finally, since "such that" is not a binary operator, this usage should be
+                    expressed in TeX using "\colon\," instead of ":". As in English,
+                    there should be space after the colon but not before it (or at least less space
+                    before it).
+    
+                    <p>
+            <li>
+                <a name="list">
+                    <i>Sequences, series, and lists.</i>
+                    In mathematics, a sequence is a function whose domain is the set of natural
+                    numbers (perhaps with a shift of the initial element). Discrete mathematicians
+                    abuse this term in using it for an ordered finite set. A good name for such an
+                    object is <i>list</i>. An <i>n</i>-tuple is a list of length <i>n</i>. It is
+                    an abuse of terminology to say "a sequence of length <i>n</i>".
+                    (For finite graphs, in particular, "degree sequence" should be changed to
+                    "degree list". To avoid this problem, one can sometimes refer to the "vertex
+                    degrees" rather than the "degree sequence" or "degree list".)
+    
+                    <p>
+                        The usage of "series" in English is contrary to its usage in mathematics.
+                        In English a "series" usually consists of finitely many occurrences in order,
+                        as in the "World Series" or the title "A Series of Unfortunate Events".
+                        In mathematics a series is an infinite sum. So I believe, but one
+                        correspondent tells me that a finite sum is also a series, though I would just
+                        call it a summation or finite sum.
+    
+                        <p>
+            <li>
+                <a name="subtwo">
+                    <i>The second element of a list.</i>
+                    The expression "<i>v<sub>1</sub>,v<sub>2</sub>,&hellip;,v<sub>n</sub></i>" for
+                    an indexed <i>n</i>-tuple is a style used to suggest that the elements are
+                    indexed by the first <i>n</i> positive integers with no skips. However, the
+                    second element is not needed, since the default interpretation of
+                    "<i>v<sub>1</sub>,&hellip;,v<sub>n</sub></i>" is exactly the same. By
+                    convention, indices in a list are consecutive unless explicitly indicated
+                    otherwise. Another reason to eliminate <i>v<sub>2</sub></i> from the
+                    expression is that "<i>v<sub>1</sub>,v<sub>2</sub>,&hellip;,v<sub>n</sub></i>"
+                    forbids the case <i>n=1</i>.
+    
+                    <p>
+            <li>
+                <a name="oplist">
+                    <i>A list with relations.</i>
+                    The sentence "Let <i>x<sub>1</sub>&le;&hellip;&le;x<sub>n</sub></i> be a list of
+                    integers" is a <a class="link" href="#dblduty">Double-Duty Definition</a>; the writer
+                    attempts simultaneously to introduce notation for the elements of a list and to
+                    impose inequalities on them.
+                    The expression "<i>x<sub>1</sub>&le;&hellip;&le;x<sub>n</sub></i>" denotes a set
+                    of relations, not a list; what is meant is "Let
+                    <i>x<sub>1</sub>,&hellip;,x<sub>n</sub></i> be integers such that
+                    <i>x<sub>1</sub>&le;&hellip;&le;x<sub>n</sub></i>." (To avoid repeating the
+                    notation, write "Let <i>x<sub>1</sub>,&hellip;,x<sub>n</sub></i> be integers,
+                    indexed in nondecreasing order.") Similarly, a chain of sets under inclusion
+                    is a list <i>A<sub>1</sub>,&hellip;,A<sub>k</sub></i> such that
+                    <i>A<sub>1</sub>&sube;&hellip;&sube;A<sub>k</sub></i>; the expression
+                    "<i>A<sub>1</sub>&sube;&hellip;&sube;A<sub>k</sub></i>" is not itself a chain.
+    
+                    <p>
+                        Although html does not provide line-centered dots, the ellipsis in an indexed
+                        list with relations should be vertically centered on the line ("\cdots" in
+                        tex), while the ellipsis in an indexed list separated by commas should be on
+                        the baseline ("\ldots" in tex).
+    
+                        <p>
+            <li>
+                <a name="varlist">
+                    <i>Variable equal to list.</i></a>
+                Many mathematicians write "for <i>m=1,2,&hellip;,n</i>" (with or without the
+                "2") to mean "for <i>m&isin;{1,&hellip;,n}</i>" or "for <i>1&le; m&le; n</i>".
+                The expression "for <i>m=1,&hellip;,n</i>" is mathematically incorrect; it sets
+                the value of <i>m</i> to be a list of numbers. The same principle applies to
+                writing "<i>i=1,2</i>" to name two cases; this should be <i>i&isin;{1,2}</i>.
+    
+                <p>
+            <li>
+                <a name="bigoh">
+                    <i>"Big Oh"</i>
+                    Common usage of "Big Oh" notation is another instance of setting expressions
+                    equal when they cannot be equal. The expression "<i>f(n)=O(n&sup2;)</i>" does
+                    not mean that the value <i>f(n)</i> equals the set represented by the notation
+                    <i>O(n&sup2;)</i>. What is meant is "<i>f(n)&isin; O(n&sup2;)</i>"; Knuth has
+                    written at length on this subject. An alternative that is roughly correct is
+                    to be more informal, writing "<i>f(n)</i> <b>is</b> <i>O(n&sup2;)</i>", in
+                    which "is <i>O(</i>" can be read as "is on the order of". Since it is
+                    convenient to do arithmetic with these classes of functions, this problem will
+                    not go away. An unsatisfying compromise is to use the membership symbol where
+                    the grammar of computation permits, in order to ensure that the meaning of the
+                    concept is understood.
+    
+                    <p>
+            <li>
+                <a name="operators"><i>Operators vs. constants.</i></a>
+                We never use <i>f</i> to denote the value of a function <i>f</i> at a point
+                <i>x</i>. The same principle applies to graph parameters and other operators.
+                For example, the maximum degree of a graph <i>G</i> is denoted
+                <i>&Delta;(G)</i>. Here <i>&Delta;</i> is a function, not a number, and hence
+                <i>&Delta;</i> should not be used to denote the value of the function
+                <i>&Delta;</i> on a particular graph.
+    
+                <p>
+                    It is tempting for mnemonic reasons to write "We write <i>V=V(G)</i> and
+                    <i>&Delta;=&Delta;(G)</i>". Admittedly, this usage is not confusing when
+                    discussing only one graph at a time; the difference between a graph invariant
+                    and a real-valued function is that we rarely focus on the value of a real-valued
+                    function at just one point. Nevertheless, it is rare that a paper discusses
+                    only one graph, and hence it is better to use <i>V(G)</i> and <i>&Delta;(G)</i>
+                    for objects associated with <i>G</i>. The problem is particularly bad with
+                    <i>&Delta;</i>, since this character also occurs in mathematics as a difference
+                    operator. One often sees "<i>&Delta;n</i>" meaning the change in the value of
+                    <i>n</i>, so one should not use "<i>&Delta;n</i>" to mean the maximum degree
+                    times the number of vertices in a graph. (In my textbook I violated this
+                    principle by using <i>n(G)</i> and <i>e(G)</i> for the numbers of vertices and
+                    edges in a graph <i>G</i> while using <i>n</i> for the number of vertices of
+                    a particular graph and <i>e</i> as a particular edge; the error will be
+                    corrected in the third edition.)
+    
+                <p>
+            <li>
+                <a name="hyphenation">
+                    <i>Hyphens for parameters.</i>
+                    The expression "<i>k</i> connected graphs" refers to <i>k</i> graphs that are
+                    connected, in contrast to "<i>k</i>-connected graphs", which are graphs having
+                    the property of being <i>k</i>-connected. Note also that an expression
+                    involving addition or subtraction used as a parameter modifying a noun
+                    should be enclosed in parentheses before the hyphen. For example, write
+                    "<i>(k+1)</i>-connected graph", not "<i>k+1</i>-connected graph".
+    
+                    This hyphenation rule applies whenever notation is used to modify or
+                    further specify the subsequent word. Examples include "<i>k</i>-cycle",
+                    "<i>n</i>-vertex graph", "<i>p</i>-group", etc.
+    
+                    A related hyphenation issue is particularly important in graph theory.
+                    A "<i>k</i>-edge connected graph" is a connected graph with <i>k</i> edges
+                    (compare with "<i>n</i>-vertex connected graph"); the meaning is different
+                    from "<i>k</i>-edge-connected graph". When the hyphen is missing,
+                    "<i>k</i>-edge" modifies "connected graph" because adjectives modify only
+                    nouns, not other adjectives. Similarly, a non-specialist reader would think
+                    that a <i>k</i>-edge coloring is a coloring of <i>k</i>-edges, not a coloring
+                    of edges using <i>k</i> colors. This example can be viewed as following
+                    the general rule: "<i>k</i>" is modifying "edge-coloring"
+    
+                    <p>
+            <li>
+                <a name="vertex-edge">
+                    <i>Vertex vs. edge terminology.</i>
+                    In graph theory, many fundamental concepts involving vertices have analogues
+                    involving edges. Here we do not need "vertex" as an adjective to specify
+                    "connectivity" or "chromatic number", but we add "edge" for the analogous edge
+                    concept. We then hyphenate "edge-connectivity" and "edge-chromatic number".
+                    In both cases, the problem for edges is a special case (for line graphs) of the
+                    general problem.
+    
+                    <p>
+                        Furthermore, using the hyphen in the edge context maintains
+                        consistency with the needed usage explained in the preceding item.
+                        When comparing "edge-coloring" and "list coloring", we are not coloring the
+                        lists, so the hyphenation of the term is different.
+    
+                        <p>
+                            The presence of the word "vertex" sometimes becomes an issue. As mentioned
+                            above, the fundamental parameters involve vertices and do not require the word
+                            "vertex" as a modifier. Similarly, when we speak of "disjoint subgraphs", it
+                            must be that they cannot share anything, vertices or edges, so the word
+                            "vertex" is unnecessary. The concept "edge-disjoint" indicates a less
+                            restrictive condition. Saying "vertex disjoint" suggests vertices as an
+                            alternative to edges; it is better just to say "disjoint". Clearly disjoint
+                            cycles share no vertices.
+    
+                        <p>
+            <li>
+                <a name="twoword">
+                    <i>Two-word adjectives.</i>
+                    Two-word terms used as single concepts to modify nouns must be hyphenated when
+                    placed before the noun, such as in this sentence (without the hyphen, we would
+                    be discussing two "word terms"). This is particularly necessary when the first
+                    of the two words is a noun, as in "vertex-transitive". An especially common
+                    instance of this error is "polynomial time algorithm"; "polynomial-time" must
+                    be hyphenated when used as an adjective. In constrast, the hyphen is dropped
+                    when the expression is not being used to modify something else, as in
+                    "The algorithm runs in polynomial time".
+    
+                    <p>
+                        Further examples:
+                        "graph-theoretic techniques",
+                        "straight-line drawing" (what is a straight line drawing or a straight line
+                        segment as opposed to one that is not straight?)
+    
+                        <p>
+            <li>
+                <a name="wellknown">
+                    <i>Adverbs and "well-known".</i>
+                    Unlike nouns or adjectives, adverbs can modify adjectives. Thus we write
+                    "strongly connected digraph" and "simply connected region" without hyphens.
+    
+                    <p>
+                        The adverb "well" is a possible exception. In "well-known theorem" we think of
+                        the combination "well-known" as a single technical term, leading to "A
+                        well-known theorem is a theorem that is well known." The term "well-defined"
+                        also behaves this way. However, opinion on this point is sharply divided; some
+                        authors insist that because "well" is an adverb the term should not be
+                        hyphenated. Further support for the hyphen: the mathematical usage of "well"
+                        in the hyphenated term differs from the English usage of "well" is the
+                        unhyphenated expression. A "well defined function" is a function for which we
+                        have done a good job of giving a definition, but a "well-defined function" is
+                        an object that has been given a valid definition as a function, with
+                        every domain element given a unique image.
+    
+                        <p>
+            <li>
+                <a name="pathnotat">
+                    <i>Notation for paths in graphs.</i>
+                    In "<i>x-y</i> path", "<i>x-y</i>" is not a word and has no notational meaning
+                    by itself. Even worse, often <i>x-y</i> is treated as a mathematical expression
+                    in TeX and is typeset using a long minus sign with extra space around it. The
+                    intent is to specify a path with endpoints <i>x</i> and <i>y</i>.
+                    Thus <i>x</i> and <i>y</i> are parameters designating a certain type of path.
+                    Under the principles of hyphenation above, there must be a hyphen between
+                    "<i>y</i>" and "path". Furthermore, the endpoints are independently expressed
+                    parameters, with no operation being performed on them. Hence for consistency
+                    with other instance of two-parameter terminology (such as "<i>f,g</i>-factor",
+                    "<i>x,y</i>-chain"), the correct notation is "<i>x,y</i>-path".
+    
+                    <p>
+            <li>
+                <a name="graphorder">
+                    <i>Order and size of a graph.</i>
+                    Traditionally, the terms "order" and "size" refer to the number of vertices
+                    and number of edges of a graph. These terms are not as popular as they once
+                    were; "order" has too many other mathematical uses, and "size" without a
+                    clear context is confusing, sometimes taken to mean the number of vertices.
+                    Some writers thus prefer "number of vertices" and "number of edges".
+    
+                    <p>
+                        It must be admitted that "order" and "size" are quite convenient, while overuse
+                        of "number of vertices" and "number of edges" becomes quite awkward.
+                        Introducing notation for the numbers of vertices and edges minimizes this
+                        difficulty. Unfortunately, there is no generally agreed notation for operators
+                        returning the numbers of vertices and edges of a graph <i>G</i>. The only
+                        notation that cannot be misunderstood is the absence of special notation:
+                        <i>|V(G)|</i> and <i>|E(G)|</i>, using notation for cardinality of finite
+                        sets that is standard throughout mathematics. Nevertheless, these expressions
+                        seems cumbersome to use repeatedly, so it is often beneficial to write "Let
+                        <i>n=|V(G)|</i> and <i>m=|E(G)|</i>."
+    
+                        <p>
+            <li>
+                <a name="graphelts">
+                    <i>Graphs are not sets.</i>
+                    When <i>h</i> is a vertex in a graph <i>G</i>, it makes no sense to write
+                    <i>h&isin; G</i>, since <i>h</i> could just as easily be an edge. A graph
+                    consists of a vertex set and an edge set; one should write <i>v&isin; V(G)</i>
+                    and <i>e&isin; E(G)</i>. This is also a reason why the convenient notations
+                    <i>|G|</i> and <i>||G||</i> for the order and size of a graph are problematic.
+                    When one sees <i>|G|</i>, how does one know whether it is the number of
+                    vertices or the number of edges?
+    
+                    <p>On the other hand, it is true that we write <i>G-v</i> and <i>G-e</i> for
+                        deletion of a vertex <i>v</i> or edge <i>e</i> from a graph <i>G</i>, defining
+                        "<i>-</i>" in the context of the objects it operates on. In this sense, it
+                        would also be legitimate to define the meaning of the cardinality and norm
+                        operators when operating on a graph. However, until there is very strong and
+                        widespread support for this usage, it seems wisest to stick to the notation
+                        <i>|V(G)|</i> and <i>|E(G)|</i> that is understood by all mathematicians.
+    
+                        <p>
+                            When <i>A&sube;V(G)</i>, it is clear that <i>|A|</i> is the size of the vertex
+                            subset <i>A</i>. It can then be useful to define <i>||A||</i> to be
+                            <i>|E(G[A])|</i>, the number of edges in the subgraph of <i>G</i> induced by
+                            <i>A</i>.
+    
+                        <p>
+            <li>
+                <a name="digraphs">
+                    <i>Directed graphs and hypergraphs</i>.
+                    These models are variations or generalizations of graphs.
+                    In a digraph, the edge set consists of ordered pairs. The redundancy of
+                    saying "directed edge" or "directed path" or "directed cycle" is not helpful,
+                    as it suggests that the digraph contains such objects that are not directed
+                    (the term "weak path" is available for a path in the underlying undirected
+                    graph). Unnecessarily adding the adjective "directed" in a context where
+                    the default should incorporate that notion also prevents making statements
+                    that hold in the context of both graphs and digraphs, like Menger's Theorem.
+    
+                    <p>
+                        Similarly, one should not use "hyperedges" to refer to the edges of a
+                        hypergraph. Hypergraphs generalize graphs by allowing edges to have arbitrary
+                        size. Calling them "hyperedges" eliminates the possibility of saying that
+                        graphs arise as a special case, since graphs have edges, not hyperedges.
+    
+                        <p>
+            <li>
+                <a name="components">
+                    <i>"Connected components"</i>.
+                    Unnecessary redundancy has similar disadvantages. We should not speak of the
+                    "connected components" of a graph, because there are no disconnected components
+                    of a graph. Writing "connected components" suggests that there are components
+                    that are not connected.
+    
+                    <p>
+            <li>
+                <a name="maxlmaxm">
+                    <i>"Maximal" vs. "maximum".</i>
+                    Many mathematicians use these words interchangeably. One can make a useful
+                    distinction by using "maximum" to compare numbers or sizes and "maximal" to
+                    compare sets or other objects. Thus a <i>maximal</i> object of type <i>A</i>
+                    is an object of type <i>A</i> that is not contained in any other object of type
+                    <i>A</i>. A <i>maximum</i> object of type <i>A</i> is a largest object of type
+                    <i>A</i>; here "maximum" is an abbreviation for "maximum-sized". For example,
+                    in a graph we may speak of "maximal independent sets" and "maximum independent
+                    sets"; these are convenient terms for distinct concepts that are both important.
+    
+                    <p>
+                        Although this distinction is sensible and has become established in many
+                        settings (such as "maximum antichain" and "maximum independent set"), potential
+                        confusion can be reduced by using "largest" and "smallest" instead of "maximum"
+                        and "minimum". For example, it is harder to misinterpret "a largest matching"
+                        than to misinterpret "a maximum matching".
+    
+                        <p>
+                            For consistency, then, one should not write "a vertex of maximal degree" or
+                            "the maximal number of edges"; that is, "maximal" should not be applied to
+                            numerical values. This is consistent with usage in continuous mathematics,
+                            where we write that a continuous function "attains its maximum" on a closed
+                            and bounded set.
+    
+                        <p>
+            <li>
+                <a name="multichar">
+                    <i>Multicharacter operators.</i>
+                    A string of letters in notation denotes the product of individual quantities.
+                    Therefore, any operator whose notation is more than one character should be
+                    in a different font, generally roman. This convention is well understood for
+                    trigonometric, exponential, and logarithmic functions, and it applies equally
+                    well to such operators as dimension (dim), crossing number (cr), choice number
+                    (ch), Maximum average degree (Mad), etc.
+    
+                    <p>
+            <li>
+                <a name="inducton">
+                    <i>"Induct on" and "By induction".</i>
+                    The phrase "We induct on <i>n</i>" is convenient but not correct. From given
+                    hypotheses, we deduce a conclusion; we don't "deduct" it. When we announce the
+                    method of induction, we must instead say "We use induction on <i>n</i>." The
+                    verb "to induct" is used when a person is inducted into an honorary society,
+                    for example.
+    
+                    <p>
+                        A different problem arises in the induction step. When we cite the induction
+                        hypothesis, we must write "By the induction hypothesis", not "By induction".
+                        To obtain the conclusion for the smaller instance, we are invoking the
+                        hypothesis that the claim holds for smaller values; we are not invoking the
+                        principle of mathematical induction.
+    
+                        <p>
+            <li>
+                <a name="cliques">
+                    <i>Cliques vs. complete subgraphs.</i>
+                    In an earlier era, these terms were used interchangeably in graph theory, but
+                    it is more useful to distinguish them. There is a difference between a set of
+                    pairwise adjacent vertices in a graph (complementary to an independent set of
+                    vertices) and a subgraph isomorphic to a complete graph. Both concepts are
+                    needed, and the appropriate terms for them are "clique" and "complete
+                    subgraph". Thus "clique" should be reserved for a set of vertices, and then
+                    the meanings of "clique of size 5" and "5-clique" (the same) are clear. In
+                    previous centuries, also "clique" was sometimes used to mean "maximal clique",
+                    which should not be done.
+    
+                    <p>
+            <li>
+                <a name="isomorphism">
+                    <i>Isomorphism classes vs. subgraphs.</i>
+                    A graph is a pair consisting of a vertex set and an edge set. Paths, cycles,
+                    and complete graphs are graphs whose edge sets are described in specific ways.
+                    The notations <i>P<sub>n</sub></i>, <i>C<sub>n</sub></i>, and
+                    <i>K<sub>n</sub></i> do not distinguish a particular set of vertices, and hence
+                    in specifying paths, cycles, and complete graphs they must refer to the
+                    isomorphism classes.
+    
+                    <p>
+                        Hence we should never write "a <i>P<sub>n</sub></i>" for a member of that class.
+                        We can write that a graph "contains a path with <i>n</i> vertices",
+                        because that is a structural description of the subgraph, but we cannot write
+                        "contains a <i>P<sub>n</sub></i>" or "consider a <i>P<sub>n</sub></i> in
+                        <i>G</i>". We can say "contains ten copies of <I>P<sub>n</sub></i>" to refer
+                        to subgraphs that are <i>n</i>-vertex paths; each such subgraph is a member of
+                        the isomorphism class denoted by <i>P<sub>n</sub></i>.
+    
+                        <p>
+                            Neverthless, some flexibility is helpful here. When <i>H</i> is the notation
+                            for an isomorphism class, we still write "<i>H&sube;G</i>" to mean that some
+                            subgraph of <i>G</i> belongs to the isomorphism class or is "isomorphic to
+                            <i>H</i>" (or "<i>G</i> contains a copy of <i>H</i>"), even though we are not
+                            specifying the particular vertices or edges of <i>G</i> used in the subgraph.
+    
+                        <p>
+            <li>
+                <a name="propercol">
+                    <i>Proper coloring.</i>
+                    A <i>k-coloring</i> (or <i>k</i>-edge-coloring) of a graph is a partition of
+                    the vertices (or edges, respectively) into <i>k</i> classes. In combinatorics
+                    generally, a <i>k</i>-coloring of a set partitions it into <i>k</i> classes,
+                    arbitrarily. This general concept appears in many areas of mathematics,
+                    including Ramsey theory, graph decomposition, and chromatic numbers. In the
+                    latter context, a <i>proper [edge-]coloring</i> is one in which adjacent [or
+                    incident] elements do not receive the same color.
+    
+                    <p>
+                        Some authors who write extensively about chromatic number and edge-chromatic
+                        number drop the word "proper" and use <i>k-[edge-]coloring</i> for the
+                        restricted concept. The minor convenience gained by dropping this word is
+                        overwhelmed by the negative influence of introducing inconsistency of
+                        terminology in combinatorics. Use "proper <i>k</i>-coloring" when that is what
+                        is meant. For other variations, such as "acyclic <i>k</i>-coloring" or
+                        "dynamic <i>k</i>-coloring", the adjectives replace "proper" by imposing
+                        further restrictions on the <i>k</i>-coloring, so the word "proper" is then no
+                        longer needed.
+    
+                        <p>
+            <li>
+                <a name="parts">
+                    <i>Partitions vs. parts</i>
+                    A partition consists of blocks or "parts". Do not use "partition" to refer
+                    to the members of a partition. (Students often make this mistake.)
+    
+                    <p>A <i>bipartition</i> is a partition into two parts. In particular,
+                        we say that a bipartition of a bipartite graph is a partition of its vertex
+                        set into two independent sets. In the past I used "partite sets" to refer
+                        to the parts of such a partition, but there are objections to that term,
+                        and students never get it (for example, they refer to one "partite" of a graph,
+                        and certainly "partite" is not a noun. Hence I now refer to the "parts" of
+                        a bipartite graph. This is a slight abuse of terminology, but I think its
+                        familiarity as a word better facilitates discussion.
+    
+                        <p>
+            <li>
+                <a name="pairwise">
+                    <i>"Pairwise" and "mutually".</i>
+                    Old-fashioned mathematics took the old-fashioned word "mutually" to describe
+                    a binary relation satisfied by all pairs in a set, as in "a set of mutually
+                    orthogonal Latin squares". In English usage, "mutual" indicates symmetry in
+                    a more global way. Hence modern mathematics should avoid using "mutually"
+                    to mean "pairwise"; the word "pairwise" states exactly what is meant. The
+                    change becomes even more important in light of modern terms like "mutual
+                    independence" in which "mutual" explicitly does not mean "pairwise". (Thus
+                    "mutually orthogonal Latin squares" is now ambiguous, but we cannot escape the
+                    notation "MOLS(n,k)" in design theory.)
+    
+                    <p>
+            <li>
+                <a name="disjoint">
+                    <i>Pairwise disjoint/isomorphic.</i>
+                    The phrase "Consider disjoint sets <i>A<sub>1</sub>,&hellip;A<sub>k</sub></i>"
+                    is technically incorrect; we should instead say "pairwise disjoint sets".
+                    However, this is a universally understood abuse of terminology, and including
+                    the word "pairwise" each time would be ponderous. Hence we understand a
+                    family of disjoint sets to be pairwise disjoint. The point is that many
+                    binary relations really make sense essentially only in a binary context.
+                    This principle extends to other commonly used binary relations do not make
+                    non-binary sense, such as "isomorphic".
+    
+                    <p>
+            <li>
+                <a name="join">
+                    <i>Disjoint union vs. join.</i>
+                    In much of graph theory, the notation <i>rG</i> indicates a graph consisting of
+                    <i>r</i> disjoint copies of <i>G</i>. For consistency, <i>G+H</i> should
+                    therefore denote the disjoint union of two graphs <i>G</i> and <i>H</i>.
+                    For example, <i>P<sub>n<sub>1</sub></sub>+&hellip;+P<sub>n<sub>k</sub></sub></i>
+                    denotes a linear forest, consisting of <i>k</i> components that are paths with
+                    orders <i>n<sub>1</sub>,&hellip;,n<sub>k</sub></i>.
+    
+                    <p>
+                        Some authors use <i>G+H</i> instead (or also!) to denote the <i>join</i> of
+                        <i>G</i> and <i>H</i>, which consists of the disjoint union plus edges
+                        joining every vertex of <i>G</i> to every vertex of <i>H</i>. Other notation
+                        has been used, such as <i>G</i>&or;<i>H</i>, borrowing the join operation
+                        (<i>x&or;y</i>) in lattices or logic, but this is not satisfactory.
+                        Instead the best notation for the graph join is \diamondplus (unavailable
+                        in html?) which overstrikes a diamond and a plus, much like "&oplus;" except
+                        with a rotated square whose corners are at the points of the "+"
+                        ("&oplus;" is unavailable because it represents symmetric difference
+                        or binary sum). The \diamondplus is consistent with the Nesetril notation
+                        for graph products: the symbol is a picture of the result of applying the
+                        operation to two copies of <i>K<sub>2</sub></i>. In addition, the use of
+                        "+" indicates that the number of vertices is additive.
+    
+                        <p>
+            <li>
+                <a name="between">
+                    <i>Between.</i>
+                    An object that is between two other objects separates them; this is the common
+                    mathematical sense of "between". Referring to an edge (or path) with endpoints
+                    <i>u</i> and <i>v</i> as an edge "between" <i>u</i> and <i>v</i> is somewhat
+                    inconsistent with the rest of mathematics. One can say "an edge <i>joining</i>
+                    <i>u</i> and <i>v</i>" instead. In a planar embedding of a graph, an edge
+                    shared by the boundaries of two faces is an an edge between the faces.
+    
+                    <p>
+            <li>
+                <a name="setminus">
+                    <i>Setminus.</i>
+                    The operator <i>\setminus</i> most often denotes difference of sets. Hence it
+                    is somewhat misleading or old-fashioned (and looks rather pompous) to use it
+                    for deletion of elements, as in "<i>G\setminus e</i>". Use "<i>G-e</i>"
+                    instead. Also, the notation <i>G\setminus H</i> is easily confused with
+                    <i>G/H</i> (especially by students). Of course, there are some contexts
+                    (matroids and various algebraic topics), where these notations have special
+                    meanings and are quite important, but for simple set difference <i>A-B</i> is
+                    preferable.
+    
+                    <p>
+            <li>
+                <a name="handside">
+                    <i>"Left hand side".</i>
+                    There is no "hand side", so this expression makes no sense. Even if one
+                    correctly <a class="link" href="#hyphenate">hyphenates</a> to make it "left-hand side",
+                    there is still no "hand". Just write "left side".
+    
+                    <h2><a name="English">English usage in mathematical writing</a></h2>
+    
+                    <p>
+            <li>
+                <a name="introwords">
+                    <i>Introductory words.</i>
+                    Words or phrases like "nevertheless", "for example", "to the contrary", and
+                    "on the other hand" usually should be separated by commas from the rest of the
+                    sentence. Introductory prepositional phrases are a bit different. I am told
+                    that a phrase with one preposition ("In 1995") does not require a comma, but a
+                    phrase with two prepositions ("In August of 1995") does. Another reader tells
+                    me that an introductory phrase with at least five words (perhaps we should say
+                    five syllables) should be followed by a comma. I would use the comma unless
+                    the intent is to lead into what follows as a single thought (see
+                    <a class="link" href="#conclwds">Hence/Thus/Therefore)</a>.
+    
+                    <p>
+            <li>
+                <a name="quotations">
+                    <i>Quotations and ends of sentences.</i>
+                    It is traditional correct style in English grammar that all terminal
+                    punctuation comes inside quotation marks. My understanding is that this
+                    convention arose from the technical aspects of printing presses. Its purpose
+                    was to lessen the danger of breakage of fixed metal type in printing presses.
+                    In the era of electronic publishing of mathematics, this justification is
+                    obsolete, and we can replace the convention with logical punctuation. When the
+                    material being quoted is treated as an item within the sentence and is not
+                    itself a sentence, the terminal punctuation logically comes outside the
+                    quotation marks. Copy editors trained in literary punctuation still object to
+                    logical punctuation but should be overruled.
+    
+                    <p>
+            <li>
+                <a name="whichthat">
+                    <i>"Which" vs "that".</i>
+                    The following two sentences have different meanings:
+                    <br>
+                    1) "She will attend our meetings that concern calculus."
+                    <br>
+                    2) "She will attend our meetings, which concern calculus."
+                    <br>
+                    Sentence (1) states that among our meetings, she will attend those concerning
+                    calculus and perhaps no others. Sentence (2) states that all the meetings
+                    concern calculus, and she will attend them all. In common English, the
+                    distinction is perhaps even clearer: compare
+                    <br>
+                    1) "I have two shirts that need cleaning."
+                    <br>
+                    2) "I have two shirts, which need cleaning."
+                    <br>
+                    In (1), two of my shirts need cleaning. In (2), I have only two shirts.
+    
+                    <p>
+                        When the phrase after the relative pronoun specifies a further restriction
+                        of the class that has just been introduced, the correct pronoun is "that", and
+                        the subsequent phrase tells which of the items in the class are those being
+                        discussed. If the subsequent phrase speaks about the totality of the class,
+                        then the proper pronoun is "which". When "that" and "which"
+                        both seem usable, use "that" when the sense is "having the property that",
+                        and use "which" when the sense is "all of which" or "the only one of
+                        which". Usually a comma is appropriate before "which". Usually "that" is
+                        correct when an indefinite article ("a" or "an") has been used on the word
+                        being modified. <i>Beware:</i> This distinction is not made or is made the
+                        opposite way in British English. Some American style manuals don't care,
+                        but in mathematics there are two distinct meanings to be expressed.
+    
+                        <p>
+            <li>
+                <a name="antecedents">
+                    <i>Immediacy of antecedents.</i>
+                    When using "which", "that", "where", or other words to introduce
+                    explanatory or descriptive phrases, the subsequent phrase modifies the most
+                    recent item. For example, "an embedding of <i>G</i> on a surface which has no
+                    crossings" indicates that the surface has no crossings, not that the embedding
+                    has no crossings. Making the comment on crossings apply to the embedding
+                    requires rewriting: "On a specified surface, consider an embedding of <i>G</i>,
+                    which has no crossings". Here "which" is proper because every embedding has
+                    no crossings; an embedding is a drawing <i>that</i> has no crossings.
+    
+                    <p>
+            <li>
+                <a name="nakedthis">
+                    <i>The naked "This".</i>
+                    When "This" is used as the subject of a sentence, its antecedent is the
+                    most recent noun. If the desired antecedent is the preceding paragraph or
+                    some other object, then a noun should be inserted, as in "This discussion
+                    implies" or "This inequality implies" instead of merely "This implies".
+                    One way to understand this issue is to view "this" only as an adjective, not
+                    as a pronoun.
+    
+                    <p>
+            <li>
+                <a name="unique">
+                    <i>"Every", "distinct", and "unique".</i>
+                    The word "every" is <i>singular</i>; it means "each one". Because of this, we
+                    write "all values" or "every value"; not "all value" or "every values".
+    
+                    <p>
+                        The word "distinct" has the same meaning as "different". Two things
+                        can be distinct, but one thing cannot be distinct. Thus the sentence "Every
+                        value is distinct" is incorrect; it has no meaning. Many beginning students
+                        think it means that each value is different from every other value, but it does
+                        not.
+    
+                        <p> The word "unique" indicates that there is only one of the items being
+                            described. It does not mean that this item is different from other items.
+                            Some students think that "The function <i>f</i> maps the points in <i>A</i> to
+                            unique points in <i>B</i>" is a statement that <i>f</i> is injective, but it is
+                            not. Every function from <i>A</i> to <i>B</i> maps each point in <i>A</i> to a
+                            unique point in <i>B</i>.
+    
+                        <p>
+                            The distinction between the words "distinct" and "unique" is made clear by a
+                            typical boast on the World Wide Web. The sentence "Our website has one million
+                            unique visitors" makes no sense. The intent is to say that among millions of
+                            hits there are one million <i>distinct</i> visitors; if there is a unique
+                            visitor, then there is no other visitor.
+    
+    
+                        <p>
+            <li>
+                <a name="contractions">
+                    <i>Contractions.</i>
+                    Because mathematical writing is formal, contractions ("can't", "won't", etc.)
+                    should be avoided. They introduce a sudden informality that is inconsistent
+                    with the tone of proof.
+    
+                    <p>
+            <li>
+                <a name="ie-eg">
+                    <i>"I.e." vs. "e.g.".</i>
+                    "I.e." and "e.g." are abbreviations for Latin phrases. "I.e." means "that is"
+                    and is used to introduce an explanation or restatement of what came before.
+                    "E.g." means "for example" and introduces an example. In formal mathematical
+                    writing, abbreviations (except as notation) are like contractions; it is better
+                    to avoid "i.e." and "e.g." altogether. In addition, the expressions "that is"
+                    and "for example" provide better visual separation than "i.e." and "e.g.".
+    
+                    <p>
+            <li>
+                <a name="differentthan">
+                    <i>"Different than".</i>
+                    It is not correct to write "<i>A</i> differs than <i>B</i>", and for the same
+                    reason it is not correct to write "<i>A</i> is different than <i>B</i>".
+                    The correct wording is "<i>A</i> is different from <i>B</i>". The incorrect
+                    wording is modern American laziness.
+    
+                    <p>
+            <li>
+                <a name="articles">
+                    <i>Abstract nouns and articles.</i>
+                    Nouns that specify abstract concepts rather than objects need no articles. For
+                    example, "graph colorability" is an indefinite concept, so we do not say "Next
+                    we discuss the graph colorability". In contrast, "chromatic number" may be
+                    abstract or specific. We may say "Next we discuss chromatic number", referring
+                    to the general concept, or "Next we discuss the chromatic number of this
+                    graph", since this graph has only one value as its chromatic number.
+    
+                    <p>
+                        Functions or parameters assign a number to each domain object. The resulting
+                        value is specific for the object; there is only one choice for it. Hence we
+                        do not say "the graph has a chromatic number 3" or "the vertex has a degree 3".
+                        These sentences suggest that the object may have more than one value of the
+                        parameter. The answer to the question "What is the degree of this vertex?"
+                        may be "This vertex has degree 3", but it cannot be "This vertex has a degree
+                        3".
+    
+                        <p>
+                            We also do not say "This vertex has the degree 3", although "The degree of this
+                            vertex is 3" is correct. Consider the sentence "Every graph has an even number
+                            of vertices with odd degree, which means that the list of vertex degrees has
+                            even sum." The term "even number" takes the article "an" because we are saying
+                            which type of number is being used (it is one of the even numbers). The later
+                            "odd degree" and "even sum" do not, because these are properties that the
+                            vertices and the list do or do not satisfy. Articles are inappropriate when
+                            invoking a property.
+    
+                        <p>
+                            Articles also are not used with conceptual nouns. Compare with familiar
+                            conversation: we say "This chair has value $100" and not "This chair has the
+                            value
+                            $100." "Value" and "degree" are abstract properties. Here is another
+                            non-mathematical example: We say "I receive compensation for my work,"
+                            not "I receive a compensation for my work." Compensation is an amount, but here
+                            only the abstract concept of receiving compensation is meant, not some number
+                            of things. Hence we do not use an article.
+    
+                        <p>
+                            Similarly, abstract properties do not take articles. We say "because
+                            transitivity of A implies transitivity of B", not "because the transitivity of
+                            A implies the transitivity of B". The property in question is "transitivity",
+                            not "the transitivity".
+    
+                        <p>
+            <li>
+                <a name="possesstit">
+                    <i>Possessives and titles.</i>
+                    The definite article "the" specifies uniqueness. Possessives also play this
+                    role. It is incorrect to use both together, because the possessive already
+                    provides definite specification. For example, we write "Greene's Theorem"
+                    but not "the Greene's Theorem"; this is a theorem proved by Greene, not by
+                    "the Greene".
+    
+                    <p>
+                        When discussing a result by two authors, we cannot put possessives on both
+                        names, because there is only one object (compare with "Greene's and Kleitman's
+                        theorems"). Making only the second name possessive would be correct in English
+                        grammar but poor mathematical style ("Greene and Kleitman's Theorem", like
+                        "Dick and Jane's house). The main reason this is poor mathematical style
+                        is that the entire phrase is a title. Hence we write "the Greene--Kleitman
+                        Theorem", like "the Woolbright-Abernathy House". Here "the" serves as a
+                        definite article for the unique object with the title "Greene--Kleitman
+                        Theorem". When the result is less celebrated and not known by its authors'
+                        names, one can indicate the possessive by "of", as in "the theorem of Greene
+                        and Kleitman".
+    
+                        <p>
+            <li>
+                <a name="capitals">
+                    <i>Capitalization of titles.</i>
+                    In the examples above, "Theorem" is capitalized. When there is only one
+                    instance of an object, and the name of it involves a person, it plays the role
+                    of a proper noun and its name is a title. Another example is "the
+                    Cauchy-Schwarz Inequality". Although some style sheets vote against
+                    capitalization based on "common usage", failing to capitalize does not
+                    reflect the true meaning and seems to be mostly a matter of laziness.
+                    We would have the Chinese remainder theorem (as opposed to the French one),
+                    the Hungarian method (as opposed to the Austrian one), and the
+                    mean value theorem (as opposed to the nice value theorem).
+    
+    
+                    <p>
+            <li>
+                <a name="adjectivename">
+                    <i>Adjectival forms of names.</i>
+                    Some graph theorists use "Hamilton cycle" to mean a spanning cycle in a graph,
+                    but they would never say "Abel group". When describing a type of cycle, the
+                    modifier should be an adjective, so it is better to use an adjectival form of
+                    the name when that is available: "Hamiltonian cycle". The same applies to
+                    "Euler circuit" and "Eulerian circuit". <i>However</i>, some uses of names as
+                    adjectives are heavily ingrained and unchangeable, such as "Fibonacci numbers"
+                    and "Catalan numbers". In these examples adjectival forms are not readily
+                    available (we do have "Eulerian numbers").
+    
+    
+                    <p>
+            <li>
+                <a name="conjunctions">
+                    <i>Conjunctions and commas.</i>
+                    Punctuation shapes sentences; commas encourage the reader to pause at places
+                    where doing so aides understanding. Missing commas may require the reader to
+                    stop and re-read in order to understand what has been said. Excessive commas
+                    delay the reader and impede the flow of logic.
+    
+                    <p>
+                        Two clauses (in essence, two complete sentences) may be combined using a
+                        <i>conjunction</i>; the conjuction must be preceded by a comma. Examples of
+                        conjunctions are "and", "but", "then", and "so" (the latter should be treated
+                        as conjunctions in mathematical writing). Since a conjunction joins two
+                        things, sentences should not begin with these words. This is a logical
+                        approach that helps keep writing clear, though strict English usage (especially
+                        British) may call some of these words adverbs. See further comments on the use
+                        of <a class="link" href="#letthen">then</a> and <a class="link" href="#sothat">so</a>.
+    
+                        <p>
+                            <i>Exception</i>.
+                            The situation is more complicated when the second clause itself contains a
+                            conjunction. Compare "If A, then B holds and C holds" with "If A, then B
+                            holds, and C holds". In the first sentence, it is clear that A implies both B
+                            and C. The proper grouping or meaning in the second sentence is unclear.
+                            Since we only have one comma symbol and don't parenthesize sentences to
+                            indicate grouping, a short conjunction of two sentences within a larger
+                            conjunction is written without a comma.
+    
+                        <p>
+            <li>
+                <a name="semicolons">
+                    <i>Semicolons.</i>
+                    Compound sentences consist of two complete sentences with no conjunction
+                    separating them. This form is used especially when the second part clarifies
+                    or comments on the first. Such sentences need a semicolon (not a comma!) to
+                    separate the two parts; this sentence is an example. Do not use a semicolon
+                    before a conjunction; in particular, there should never be a semicolon before
+                    "and", "but", "then", or "so".
+    
+                    <p>
+            <li>
+                <a name="extracommas">
+                    <i>Excessive commas.</i>
+                    A clause requires a subject and a verb. When "and" joins two parts of a
+                    sentence that do not both stand on their own with a subject and a verb, there
+                    should be no comma before it. The comma in "We will prove the lemma, and then
+                    the theorem" is incorrect; one must delete the comma or add a subject and
+                    verb to the second part. This example came from a newspaper: "In February,
+                    the graduate student in Electrical and Computer Engineering, was awarded the
+                    A--B--C Prize"; here there should be no comma before "was". (See further
+                    examples of excessive commas in <a class="link" href="#definitions">Definitions</a>.)
+    
+                    <p>
+            <li>
+                <a name="serialcomma">
+                    <i>Serial commas.</i> A serial comma is a comma after the next-to-last element
+                    of a list. Wikipedia gives a <a class="link" href="http://en.wikipedia.org/wiki/Serial_comma">discussion</a> of its
+                    use. It
+                    is generally safest to use a comma in this situation. For example, compare
+                    "Under the conditions <i>1&le; i,k&le; r</i> and <i>m</i> even" with
+                    "Under the conditions <i>1&le; i</i>, <i>k&le; r</i>, and <i>m</i> even";
+                    the two sentences have different meanings. The issue arises often when
+                    listing three mathematical objects or three authors. (For a list of lists,
+                    clarity can be achieved by using semicolons or by changing "and" to "&" within
+                    list items.)
+    
+                    <p>
+                        One reason for using the serial comma in lists is to avoid confusion in
+                        sentences that do not contain lists. Consider the sentences
+                        "Like <i>a</i>, <i>b</i> and <i>c</i> have the same property" and
+                        "Later, Early and Jones proved the conjecture". These are not lists, and using
+                        a comma would be wrong, but when a document does not use serial commas these
+                        examples initially appear to be lists. Similarly, in that context an item in a
+                        list that itself joins two subitems with "and" looks like the last two items in
+                        a list.
+    
+                        <p>
+                            Omitting the serial comma can also cause confusion mathematically, as in
+                            "The value of <i>f</i> is positive at 2, negative at 1 and 0 at 0."
+    
+                        <p>
+            <li>
+                <a name="appositive">
+                    <i>Appositives.</i></a> An appositive is a noun or noun phrase that renames or
+                substitutes for another noun or noun phrase immediately preceding or following
+                it. It can be recognized by the fact that omitting it would yield a clear and
+                complete sentence and that the additional information in it is not
+                grammatically essential to the statement being made. It should be set off by
+                commas: "His book, the best book on the subject, took years to write. An
+                appositive in the middle of a sentence cannot have a comma on only one side.
+    
+                <p>
+                    When an appositive is short enough or contains essential information, the
+                    commas are omitted: "My friend Bob is a student." In mathematical writing, a
+                    similar situation applies when notation is introduced: "The <i>degree</i>
+                    <i>d(v)</i> of a vertex <i>v</i> is the number of neighbors of <i>v</i>." Here
+                    "<i>d(v)</i>" is a brief appositive. One could argue that the notation for
+                    "degree" is not essential to the sense of the sentence, but putting commas
+                    around very short appositives can produce very choppy sentences. A speaker
+                    need not pause for such appositives, and hence one may omit the commas.
+    
+                <p>
+            <li>
+                <a name="passive">
+                    <i>Passive voice.</i>
+                    Good writers of English minimize the use of passive voice. This accepted
+                    principle applies also in writing mathematics. Active verbs make the
+                    exposition more engaging; for example, "It suffices to show" is preferable
+                    to "It is sufficient to show". Nevertheless, judicious use of the passive
+                    voice can be appropriate.
+    
+                    <p>
+            <li>
+                <a name="thebelow">
+                    <i>"Above" and "Below".</i>
+                    These words are adverbs; they do not directly modify nouns. Hence "the above
+                    graph" and "the below figure" are incorrect. We can write "the graph above"
+                    or "the figure below" as a short form for "the graph shown above" or
+                    "the figure located below".
+    
+                    <p>
+            <li>
+                <a name="either">
+                    <i>"Either".</i>
+                    The word <i>either</i> is used to indicate exclusive or. If the alternatives
+                    are mutually exclusive by definition, then "either" is unnecessary.
+    
+                    <p>
+            <li>
+                <a name="perfect">
+                    <i>"We have been proving"</i>
+                    Do not use the "perfect" tenses, which involve the helping word "have".
+                    Phrases like "In Section 3 we have been analyzing" or "in [4] we had shown"
+                    are either grammatically wrong or confusing. The simple tenses, as in
+                    "In Section 3 we analyzed" or "in [4] we showed", are almost always better.
+                    Even the future can be eliminated: "in Section 4 we show" rather than
+                    "in Section 4 we will show"; the justification for this is viewing the entire
+                    article as a unit, happening in the present.
+    
+                    <p>
+            <li>
+                <a name="non">
+                    <i>Words containing "non".</i>
+                    When a word in English initially has a negation introduced by prefixing "non",
+                    the resulting word is hyphenated. The initial sense is the negation, so the
+                    hyphen is appropriate. As decades pass and the word is accepted on its own,
+                    it becomes a positive concept incorporating the "non". This and familiarity
+                    lead to dropping the hyphen. Some of the most familiar examples in mathematics
+                    are "nonsingular", "nontrivial", "nonzero", and "nonconstructive". Adding
+                    hyphens to these words is now jarring to more readers than is the absence of
+                    hyphens. I also use "nonempty", "nonnegative", "nonneighor", and "nonadjacent".
+                    However, I would keep the hyphen in "non-word" and "non-edge", for clarity
+                    and infrequency.
+    
+                    <p>
+            <li>
+                <a name="citation">
+                    <i>Placement of citations.</i>
+                    The numeral indicating an item in the bibliography should appear immediately
+                    after the name(s) of the author(s), not after the statement of the result.
+    
+                    <h2><a name="non-native">Mathematical English for non-native speakers</h2>
+    
+                    <p>
+            <li>
+                <a name="boundof">
+                    <i>"Bound of".</i>
+                    Many non-native speakers use "bound of" when they mean "bound on".
+                    If <i>x&le; k</i>, then we have an upper bound of <i>k</i> on <i>x</i>. Using
+                    "bound of <i>x</i>" for "bound on <i>x</i>" can become confusing when comparing
+                    parameters. We do not want to say that the maximum degree <i>&Delta;(G)</i> is
+                    a bound of the chromatic number <i>&chi;(G)</i>; when <i>&Delta;(G)=k</i> we
+                    want to say that <i>&Delta;(G)</i> establishes a bound <i>of</i> <i>k</i>
+                    <i>on</i> the chromatic number of the graph. (Writers from Asia typically
+                    overuse the preposition "of" when many others are more accurate, such as
+                    "on", "for", "about", etc.)
+    
+                    <p>
+            <li>
+                <a name="few">
+                    <i>"few" vs "a few".</i>
+                    In English, "few" means "not many", while "a few" means "several".
+                    The sentence "In this paper we prove few good results" means that the
+                    paper does nothing worthwhile, while "In this paper we prove a few good
+                    results" means that it is worth reading.
+    
+                    <p>
+            <li>
+                <a name="usual">
+                    <i>"Usual".</i>
+                    It is a quirk of English that the word "usual" as an adjective usually requires
+                    the definite article "the". We cannot say "In this section we consider only
+                    usual chromatic number"; it must be "In this section we consider only the usual
+                    chromatic number". (This is a common error by speakers of languages that
+                    do not have articles.)
+    
+                    <p>
+            <li>
+                <a name="partialcase">
+                    <i>"Partial case".</i>
+                    In English, we do not say that one result is a "partial case" of another.
+                    We say that it is a "special case". (This is an issue of translation from one
+                    language to another.) However, it is correct to say that proving a special
+                    case of a conjecture is a partial result.
+    
+                    <p>
+            <li>
+                <a name="pass">
+                    <i>"Pass" vs. "Pass through".</i>
+                    In English, the word "pass" means "go by without entering". Thus a path that
+                    passes a vertex does not visit that vertex. To say that path <i>P</i> visits
+                    vertex <i>v</i>, one should say that <i>P</i> <i>passes through</i> <i>v</i>
+                    (this is a language translation issue). Better yet, just use "visits".
+    
+                    <p>
+            <li>
+                <a name="cannot">
+                    <i>"Can not" and "may be".</i>
+                    It appears that some writers of English now use "can not" to mean "cannot".
+                    In speech the two cannot be distinguished, so it doesn't matter, but in written
+                    mathematics we should avoid ambiguities. The logical meaning of "can not fail"
+                    is "may possibly succeed" while "cannot fail" means "must succeed". At the
+                    very least, when "can not" is used to mean "cannot" it can be read to have a
+                    different meaning, so it is better to use "cannot" to eliminate the ambiguity.
+                    As in many of these items, the abstractness of mathematical statements in
+                    contrast to the everyday context of English language begs a higher level of
+                    precision and avoidance of ambiguity.
+    
+                    <p>
+                        The expression "may be" does exist in English, when used as a verb as in "It
+                        may be true" or "This may be the only component". However, when it appears at
+                        the start of a clause most likely the word "maybe" is intended, as in "Maybe
+                        this proof will work. In this situation there is another verb ("work"), and
+                        the initial expression means "Possibly", which is not a verb.
+    
+                        <p>
+            <li>
+                <a name="jointwork">
+                    <i>"A joint work".</i>
+                    We speak of "a theorem" or "a result", since these are definite specific items
+                    but "work" is an <a class="link" href="articles">abstract noun</a> and does not take the
+                    indefinite article "a". We say simply "This is work of mine", not "This is a
+                    work of mine", and "This is joint work with my colleague," not "This is a joint
+                    work". This usage of "work" is different from "a work of art" or "the complete
+                    works of Shakespeare". In mathematics, "work" is equivalent to "research"; we
+                    do not say "this is a joint research". The same error occurs in
+                    "I will have a limited access to my email."
+    
+                    <p>
+            <li>
+                <a name="evidently">
+                    <i>"Evidently".</i>
+                    Some nonnative speakers write "Evidently" to mean "Clearly". Although this
+                    word is not technically incorrect, it has other connotations to native
+                    speakers. Combining this with the fact that they would always write "Clearly"
+                    and never "Evidently", they are confused about what the writer means.
+                    Always change "Evidently" to "Clearly". ("Evidently" is quite close to
+                    "apparently", which in American English means "seems to be true" rather than
+                    "is true".)
+    
+                    <p>
+                        Similarly, "as evidenced by" generally is not used in English; change to "as
+                        shown by".
+    
+                        <p>
+            <li>
+                <a name="principle">
+                    <i>"Principal" vs. "principle".</i>
+                    "Principal" is an adjective meaning "foremost", used mathematically in
+                    "principal minor". "Principle" is a noun similar to "idea" or "method",
+                    as in "the Pigeonhole Principle".</i>
+    
+                    <p>
+            <li>
+                <a name="extracom">
+                    <i>More excess commas.</i>
+                    There is no comma before or after "is" in a definition.
+                    There is no comma between "show" and "that".
+    
+                    <p>
+            <li>
+                <a name="dontuse">
+                    <i>More expressions not used in English.</i>
+                    <br>
+                    "discuss about" &rArr; "discuss".
+                    <br>
+                    "studied about" &rArr; "studied".
+                    <br>
+                    "equals to" &rArr; "equals" or "is equal to".
+                    <br>
+                    "contradicts to" &rArr; "contradicts".
+                    <br>
+                    "necessary conditions of" &rArr; "necessary conditions for".
+                    <br>
+                    "to precise" &rArr; "to make precise" ("precise" is not a verb).
+                    <br>
+                    "a same argument" &rArr; "the same argument" or "a similar argument".
+                    <br>
+                    "decompose to" &rArr; "decompose into".
+                    <br>
+                    "joint" (as a verb) &rArr; "join" ("joint" is not a verb).
+                    <br>
+                    "specially" &rArr; "especially" or "special" ("specially" is not a word)
+                    <br>
+                    "usual coloring" &rArr; "ordinary proper coloring"
+                    <br>
+                    "We pick up" &rArr; "We consider"
+            </li>
+    
+    </ol>
+    <p>
+    <h2><a name="references">Other material on mathematical writing</h2>
+    
+    To be clear, I do not make positive or negative comments on the material
+    cited below. I merely offer these alternatives to show the variety of opinions
+    on the subject and to indicate that this is an important topic on which people
+    have strong opinions.
+    
+    <ul>
+        <li>
+            R. Bell, B. Kadets, P. Srinivasan, N. Triantafillou, and I. Vogt,
+            <a class="link" href="https://www.ams.org/journals/notices/202106/rnoti-p930.pdf">
+                Practical Suggestions for Mathematical Writing</a>,
+            <i>Notices AMS</i> 68 (2021), 930-934.
+        </li>
+        <li>
+            C. Barwick,
+            <a class="link" href="https://www.maths.ed.ac.uk/~cbarwick/papers/style.pdf">
+                Notes on mathematical writing</a>
+        </li>
+        <li>
+            B.C. Berndt,
+            <a class="link" href="http://www.math.uiuc.edu/~berndt/writingmath.pdf">
+                How to write mathematical papers</a>
+        </li>
+        <li>
+            K. Conrad,
+            <a class="link" href="https://kconrad.math.uconn.edu/blurbs/proofs/writingtips.pdf">
+                Advice on Mathematical Writing</a>
+        </li>
+        <li>
+            O. Goldreich,
+            <a class="link" href="http://www.wisdom.weizmann.ac.il/~oded/writing.html">
+                How to write a paper</a>
+        </li>
+        <li>
+            D. Goss,
+            <a class="link" href="http://www.math.ohio-state.edu/~goss/hint.pdf">
+                Some hints on mathematical style</a>
+        </li>
+        <li>
+            P.R. Halmos,
+            <a class="link" href="https://www.mathematik.uni-marburg.de/~agricola/material/halmos.pdf">
+                How to write mathematics</a>,
+            Enseign. Math. (2) 16 (1970), 123-152.
+        <li>
+            N.J. Higham, Handbook of writing for the mathematical sciences, (SIAM, 1998),
+            302 pp. </li>
+        <li>
+            S.P. Jones, How to write a great research paper,
+            <a class="link" href="https://tinyurl.com/y7p3aoj7">talk available</a>
+        </li>
+        <li>
+            D.E. Knuth,
+            <a class="link" href="https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf">
+                Course notes on mathematical writing</a> (note for example Section 38 on
+            "which" versus "that").
+        </li>
+        <li>
+            D.E. Knuth, T.L. Larrabee, and P.M. Roberts, Mathematical Writing, (MAA,
+            1989), 115 pp.; see also <a class="link" href="https://tinyurl.com/y9mm4xcq">course
+                notes</a> (an alternative link to the reference above)</li>
+        <li>
+            S.G. Krantz, A Primer of Mathematical Writing, arXiv:1612.04888, 276 pp.
+        </li>
+        <li>
+            I. Pak,
+            <a class="link" href="https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf">
+                How to write a clear math paper: Some 21st century tips</a>
+        </li>
+        <li>
+            B. Poonen,
+            <a class="link" href="http://www-math.mit.edu/~poonen/papers/writing.pdf">
+                Practical suggestions for mathematical writing</a>.
+        </li>
+        <li>
+            A. Reiter,
+            <a class="link" href="http://web.mit.edu/jrickert/www/mathadvice.html">
+                Writing a research paper in mathematics</a>
+        </li>
+        <li>
+            G.-C. Rota, Ten lessons I wish I had been taught, <i>Notices AMS</i> 44 (1997),
+            22-25.</li>
+        <li>
+            J.-P. Serre,
+            <a class="link" href="https://www.youtube.com/watch?v=ECQyFzzBHlo">
+                How to write mathematics badly</a>.
+        </li>
+        <li>
+            F. Su,
+            <a class="link" href="https://scholarship.claremont.edu/hmc_fac_pub/1145">
+                Some guidelines for good mathematical writing</a>,
+            MAA Focus 35 (2015), no. 4, 20-22.
+        </li>
+        <li>
+            T. Tao, On writing,
+            <a class="link" href="https://terrytao.wordpress.com/advice-on-writing-papers/">
+                blog</a>
+        </li>
+        <li>
+            W. Zinsser, On Writing Well: The Classic Guide to Writing Nonfiction (30th Ed.),
+            (Harper, 2016), 336 pp.
+        </li>
+    </ul>
+
+   </body>
+
+</html>
