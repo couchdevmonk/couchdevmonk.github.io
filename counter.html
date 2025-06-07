@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Click Counter</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: white;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            color: black;
+        }
+
+        .counter-container {
+            background: white;
+            padding: 40px;
+            text-align: center;
+            min-width: 350px;
+        }
+
+        .title-input {
+            width: 100%;
+            padding: 12px 16px;
+            font-size: 18px;
+            border: 1px solid black;
+            border-radius: 4px;
+            margin-bottom: 30px;
+            text-align: center;
+            font-weight: 400;
+            background: white;
+            color: black;
+        }
+
+        .title-input:focus {
+            outline: none;
+            border-color: black;
+        }
+
+        .counter-display {
+            font-size: 4rem;
+            font-weight: normal;
+            color: black;
+            margin: 30px 0;
+        }
+
+        .button {
+            padding: 15px 30px;
+            font-size: 18px;
+            font-weight: normal;
+            border: 1px solid black;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 10px;
+            min-width: 120px;
+            background: white;
+            color: black;
+        }
+
+        .click-button {
+            background: white;
+            color: black;
+            border: 1px solid black;
+            font-size: 24px;
+            padding: 20px 40px;
+            margin: 20px 0;
+        }
+
+        .click-button:hover {
+            background: black;
+            color: white;
+        }
+
+        .click-button:active {
+            background: black;
+            color: white;
+        }
+
+        .reset-button {
+            background: white;
+            color: black;
+            border: 1px solid black;
+        }
+
+        .reset-button:hover {
+            background: black;
+            color: white;
+        }
+
+        @media (max-width: 480px) {
+            .counter-container {
+                padding: 30px 20px;
+                min-width: 300px;
+            }
+            
+            .counter-display {
+                font-size: 3rem;
+            }
+            
+            .click-button {
+                font-size: 20px;
+                padding: 15px 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="counter-container">
+        <input type="text" class="title-input" placeholder="Enter counter title...">
+        
+        <div class="counter-display" id="counter">0</div>
+        
+        <button class="button click-button" id="clickBtnAdd">+</button>
+        <button class="button click-button" id="clickBtnMinus">-</button>
+        
+        <div>
+            <button class="button reset-button" id="resetBtn">Reset</button>
+        </div>
+    </div>
+
+    <script>
+        let count = 0;
+
+        const counterDisplay = document.getElementById('counter');
+        const clickBtnAdd = document.getElementById('clickBtnAdd');
+        const clickBtnMinus = document.getElementById('clickBtnMinus');
+        const resetBtn = document.getElementById('resetBtn');
+        const titleInput = document.querySelector('.title-input');
+
+        // Click button functionality
+        clickBtnAdd.addEventListener('click', function(e) {
+            count++;
+            counterDisplay.textContent = count;
+        });
+
+        // Minus button functionality
+        clickBtnMinus.addEventListener('click', function(e) {
+            count--;
+            counterDisplay.textContent = count;
+            if (count < 0) {
+                count = 0; // Prevent negative counts
+                counterDisplay.textContent = count;
+            }
+        });
+
+        // Reset button functionality
+        resetBtn.addEventListener('click', function() {
+            count = 0;
+            counterDisplay.textContent = count;
+        });
+
+        // Title input functionality
+        titleInput.addEventListener('input', function() {
+            document.title = this.value || 'Click Counter';
+        });
+    </script>
+</body>
+</html>
