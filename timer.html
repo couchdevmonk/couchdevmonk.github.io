@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>simpleTimer</title>
+
+<style>
+@font-face {
+    font-family: 'JetBrainsMono';
+    src: url('JetBrainsMono-Regular.ttf') format('truetype');
+}
+
+:root {
+    --bg: #ffffff;
+    --fg: #111111;
+    --soft-red: #c65a4f;
+    --border: #999;
+}
+
+body.dark {
+    --bg: #111111;
+    --fg: #eeeeee;
+    --border: #555;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: 'JetBrainsMono', monospace;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+body.running {
+    cursor: none;
+}
+
+#modeToggle {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    cursor: pointer;
+    font-size: 14px;
+    opacity: 0.7;
+}
+
+#modeToggle:hover {
+    opacity: 1;
+}
+
+#label {
+    font-size: 22px;          /* increased from 20px */
+    font-weight: bold;        /* now bold */
+    margin-bottom: 20px;
+    opacity: 0.5;
+}
+
+#label:focus {
+    outline: none;
+    border-bottom: 1px solid var(--border);
+    opacity: 1;
+}
+
+.placeholder {
+    opacity: 0.4;
+}
+
+#timer {
+    font-size: 120px;
+    letter-spacing: 5px;
+    transition: color 0.3s ease;
+}
+
+#timer span {
+    min-width: 80px;
+    display: inline-block;
+    text-align: center;
+}
+
+#timer span:focus {
+    outline: none;
+    border-bottom: 2px solid var(--border);
+}
+
+.red {
+    color: var(--soft-red);
+}
+
+.flash {
+    animation: flash 1s infinite;
+}
+
+@keyframes flash {
+    0% { opacity: 1; }
+    50% { opacity: 0.3; }
+    100% { opacity: 1; }
+}
+
+.buttons {
+    margin-top: 40px;
+}
+
+button {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--fg);
+    padding: 8px 20px;
+    margin: 0 10px;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+</style>
+</head>
+
+<body class="dark">
+
+<div id="modeToggle" onclick="toggleMode()">☾</div>
+
+<div id="label" contenteditable="true" class="placeholder">Enter label...</div>
+
+<div id="timer">
+    <span id="hours" contenteditable="true">00</span>:
+    <span id="minutes" contenteditable="true">05</span>:
+    <span id="seconds" contenteditable="true">00</span>
+</div>
+
+<div class="buttons">
+    <button id="startBtn" onclick="startTimer()">Start</button>
+    <button id="pauseBtn" class="hidden" onclick="pauseTimer()">Pause</button>
+    <button id="resetBtn" class="hidden" onclick="resetTimer()">Reset</button>
+</div>
+
+<script>
+let interval = null;
+let totalSeconds = 0;
+let originalSeconds = 0;
+let hasStarted = false;
+let labelEdited = false;
+
+const placeholderText = "Enter label...";
+
+label.addEventListener("focus", () => {
+    if (!labelEdited && label.innerText === placeholderText) {
+        label.innerText = "";
+        label.classList.remove("placeholder");
+    }
+});
+
+label.addEventListener("input", () => {
+    labelEdited = label.innerText.trim() !== "";
+});
+
+label.addEventListener("blur", () => {
+    if (label.innerText.trim() === "") {
+        label.innerText = placeholderText;
+        label.classList.add("placeholder");
+        labelEdited = false;
+    }
+});
+
+function getTimeFromFields() {
+    const h = parseInt(hours.innerText) || 0;
+    const m = parseInt(minutes.innerText) || 0;
+    const s = parseInt(seconds.innerText) || 0;
+    return h*3600 + m*60 + s;
+}
+
+function updateDisplay(sec) {
+    let h = Math.floor(sec / 3600);
+    let m = Math.floor((sec % 3600) / 60);
+    let s = sec % 60;
+
+    hours.innerText = String(h).padStart(2, '0');
+    minutes.innerText = String(m).padStart(2, '0');
+    seconds.innerText = String(s).padStart(2, '0');
+
+    timer.classList.toggle('red', sec <= 30);
+    timer.classList.toggle('flash', sec <= 10 && sec > 0);
+}
+
+function startTimer() {
+    if (interval) return;
+
+    if (!hasStarted) {
+        totalSeconds = getTimeFromFields();
+        originalSeconds = totalSeconds;
+        hasStarted = true;
+    }
+
+    if (totalSeconds <= 0) return;
+
+    interval = setInterval(() => {
+        if (totalSeconds <= 0) {
+            clearInterval(interval);
+            interval = null;
+            stopRunningState();
+            return;
+        }
+        totalSeconds--;
+        updateDisplay(totalSeconds);
+    }, 1000);
+
+    document.body.classList.add("running");
+
+    startBtn.classList.add("hidden");
+    pauseBtn.classList.remove("hidden");
+    resetBtn.classList.add("hidden");
+
+    if (!labelEdited) {
+        label.style.display = "none";
+    }
+}
+
+function pauseTimer() {
+    clearInterval(interval);
+    interval = null;
+    stopRunningState();
+
+    startBtn.classList.remove("hidden");
+    pauseBtn.classList.add("hidden");
+    resetBtn.classList.remove("hidden");
+}
+
+function resetTimer() {
+    clearInterval(interval);
+    interval = null;
+    hasStarted = false;
+    totalSeconds = originalSeconds;
+    updateDisplay(totalSeconds);
+    stopRunningState();
+
+    startBtn.classList.remove("hidden");
+    pauseBtn.classList.add("hidden");
+    resetBtn.classList.add("hidden");
+
+    label.style.display = "block";
+}
+
+function stopRunningState() {
+    document.body.classList.remove("running");
+}
+
+function toggleMode() {
+    document.body.classList.toggle("dark");
+}
+
+document.addEventListener("keydown", (e) => {
+    if (e.code === "Space") {
+        e.preventDefault();
+        if (interval) pauseTimer();
+        else startTimer();
+    }
+    if (e.key.toLowerCase() === "r") {
+        resetTimer();
+    }
+});
+</script>
+
+</body>
+</html>
