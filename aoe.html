@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>AoE Clock</title>
+
+    <style>
+        @font-face {
+            font-family: 'JetBrainsMono';
+            src: url('JetBrainsMono-Regular.ttf') format('truetype');
+        }
+
+        :root {
+            --bg: #111111;
+            --fg: #eeeeee;
+            --soft: #777;
+        }
+
+        body {
+            margin: 0;
+            height: 100vh;
+            background: var(--bg);
+            color: var(--fg);
+            font-family: 'JetBrainsMono', monospace;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* AoE label */
+
+        #label {
+            font-size: 50px;
+            font-weight: bold;
+            opacity: 0.5;
+            margin-bottom: 20px;
+        }
+
+        /* BIG AoE clock (same scale as your timer) */
+
+        #aoe {
+            font-size: 200px;
+            letter-spacing: 5px;
+        }
+
+        /* Local time */
+
+        #localTime {
+            margin-top: 40px;
+            font-size: 100px;
+        }
+
+        /* Local info */
+
+        #localInfo {
+            margin-top: 8px;
+            font-size: 40px;
+            color: var(--soft);
+            opacity: 0.8;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="label">
+        AoE Time (<span id="aoeDate"></span>)
+    </div>
+
+    <div id="aoe">00:00:00</div>
+
+    <div id="localTime">00:00:00</div>
+
+    <div id="localInfo">
+        Local (<span id="localCity"></span>, <span id="localDate"></span>)
+    </div>
+
+    <script>
+
+        function pad(n) {
+            return String(n).padStart(2, '0');
+        }
+
+        function formatDate(d) {
+                return pad(d.getUTCDate()) + "/" +
+                    pad(d.getUTCMonth() + 1) + "/" +
+                    d.getUTCFullYear();
+            }
+        function updateClock() {
+
+            const now = new Date();
+
+            /* LOCAL */
+
+            const lh = pad(now.getHours());
+            const lm = pad(now.getMinutes());
+            const ls = pad(now.getSeconds());
+
+            document.getElementById("localTime").textContent =
+                `${lh}:${lm}:${ls}`;
+
+            document.getElementById("localDate").textContent =
+                `${pad(now.getDate())}/${pad(now.getMonth() + 1)}/${now.getFullYear()}`;
+
+
+            /* AoE = UTC - 12 */
+
+            const aoeHours =
+                (now.getUTCHours() - 12 + 24) % 24;
+
+            const aoeMinutes = now.getUTCMinutes();
+            const aoeSeconds = now.getUTCSeconds();
+
+            document.getElementById("aoe").textContent =
+                `${pad(aoeHours)}:${pad(aoeMinutes)}:${pad(aoeSeconds)}`;
+
+
+            /* AoE date */
+
+            const aoeDate = new Date(now.getTime() - 12 * 3600 * 1000);
+
+            document.getElementById("aoeDate").textContent =
+                formatDate(aoeDate);
+        }
+
+
+        /* Detect city */
+
+        function detectCity() {
+
+            const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+            let city = tz.split('/').pop().replace('_', ' ');
+
+            if (city === "Kolkata") city = "Calcutta";
+
+            document.getElementById("localCity").textContent = city;
+        }
+
+        detectCity();
+        updateClock();
+        setInterval(updateClock, 1000);
+
+    </script>
+
+</body>
+
+</html>
